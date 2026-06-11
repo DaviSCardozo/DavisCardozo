@@ -17,7 +17,7 @@
 
 Olá! Eu sou **Davi dos Santos Cardozo**.
 
-Sou graduado em **Análise e Desenvolvimento de Sistemas** e atualmente curso uma **Pós-graduação em Ciência de Dados e Big Data Analytics**.
+Sou graduado em **Análise e Desenvolvimento de Sistemas** e **Pós-graduação em Ciência de Dados e Big Data Analytics** atualmente curso uma e participante**Bootcamp Full Stack +praTi Junior**..
 
 Tenho dedicado minha jornada ao desenvolvimento de software, análise de dados e construção de soluções tecnológicas através de projetos práticos, cursos e desafios reais.
 
@@ -29,7 +29,7 @@ Atualmente estou focado em evoluir como:
 
 🐍 Desenvolvedor Python
 
-☁️ Futuro Engenheiro de Dados
+☁️ Futuramente cientista de Dados
 
 # 🐺 Minha Jornada
 
@@ -51,7 +51,7 @@ Atualmente estou focado em evoluir como:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,express,python,mysql,mongodb,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,python,java,mysql,git,github,vscode,docker" />
 
 </div>
 
@@ -73,9 +73,9 @@ Atualmente estou focado em evoluir como:
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+<!--[Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)-->
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+<!--[NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)-->
 
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
@@ -139,9 +139,9 @@ Atualmente estou focado em evoluir como:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavisCardozo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavisCardozo&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
