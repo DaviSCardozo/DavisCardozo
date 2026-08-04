@@ -184,9 +184,13 @@ Transformando aprendizado em soluções reais.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Davi%20Cardozo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/davi-cardozo-2b1046288)
-
-[![Email](https://img.shields.io/badge/Email-dev.davicardozo%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:dev.davicardozo@gmail.com)
+  <a href="https://www.linkedin.com/in/davi-cardozo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Davi Cardozo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:dev.davicardozo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Davi Cardozo" />
+  </a>
 
 </div>
 
