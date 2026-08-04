@@ -192,6 +192,10 @@ Transformando aprendizado em soluções reais.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Davi Cardozo" />
   </a>
 
+  <br/><br/>
+
+  ✉️ **E-mail:** `dev.davicardozo@gmail.com`
+
 </div>
 
 ---
