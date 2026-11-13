@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 690" width="600" height="690" role="img" aria-label="Lista de materiais (stack): Linguagens: TypeScript, Java, JavaScript, SQL; Frontend: React, Next.js (App Router), Tailwind CSS, Vite; Backend: Node.js, Fastify, Spring Boot, Spring Security (JWT); Dados: PostgreSQL, Prisma, Flyway, Spring Data JPA; Infra: Docker, Git, Vercel, Render; Em estudo: Python, RAG, IA aplicada, Ciência de Dados. A última linha são tecnologias em estudo.">
-<title>Lista de materiais (stack): Linguagens: TypeScript, Java, JavaScript, SQL; Frontend: React, Next.js (App Router), Tailwind CSS, Vite; Backend: Node.js, Fastify, Spring Boot, Spring Security (JWT); Dados: PostgreSQL, Prisma, Flyway, Spring Data JPA; Infra: Docker, Git, Vercel, Render; Em estudo: Python, RAG, IA aplicada, Ciência de Dados. A última linha são tecnologias em estudo.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 792" width="600" height="792" role="img" aria-label="Lista de materiais (stack): Linguagens: TypeScript, Java, Python, JavaScript, SQL; Frontend: React, Next.js (App Router), Tailwind CSS, Vite; Backend: Spring Boot, Spring Security (JWT), Node.js, Fastify; Dados: PostgreSQL, Spring Data JPA, Prisma, Flyway; Qualidade: Jest, Testing Library, JUnit, JaCoCo; Infra: Docker, Git, GitHub Actions, Vercel, Render; Em estudo: RAG, IA aplicada, Ciência de Dados. A última linha são tecnologias em estudo.">
+<title>Lista de materiais (stack): Linguagens: TypeScript, Java, Python, JavaScript, SQL; Frontend: React, Next.js (App Router), Tailwind CSS, Vite; Backend: Spring Boot, Spring Security (JWT), Node.js, Fastify; Dados: PostgreSQL, Spring Data JPA, Prisma, Flyway; Qualidade: Jest, Testing Library, JUnit, JaCoCo; Infra: Docker, Git, GitHub Actions, Vercel, Render; Em estudo: RAG, IA aplicada, Ciência de Dados. A última linha são tecnologias em estudo.</title>
 
 <defs>
 <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
 
 </defs>
-<rect x="0.5" y="0.5" width="599" height="689" rx="16" fill="#0D1117" stroke="#1F2733"/>
-<rect x="0.5" y="0.5" width="599" height="689" rx="16" fill="url(#grid)"/>
+<rect x="0.5" y="0.5" width="599" height="791" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="599" height="791" rx="16" fill="url(#grid)"/>
 <text x="30" y="46" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4" letter-spacing="2.5">LISTA DE MATERIAIS</text>
 <path d="M30 64H570" stroke="#3B4252"/>
 <g class="r0">
 <text x="30" y="104" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#06B6D4">01</text>
 <text x="70" y="105" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Linguagens</text>
-<text x="30" y="140" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>TypeScript</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Java</tspan><tspan fill="#8B95A5"> · </tspan><tspan>JavaScript</tspan><tspan fill="#8B95A5"> · </tspan><tspan>SQL</tspan></text>
+<text x="30" y="140" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>TypeScript</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Java</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Python</tspan><tspan fill="#8B95A5"> · </tspan><tspan>JavaScript</tspan><tspan fill="#8B95A5"> · </tspan><tspan>SQL</tspan></text>
 <path d="M30 166H570" stroke="#1F2733"/>
 </g>
 <g class="r1">
@@ -24,24 +24,30 @@
 <g class="r2">
 <text x="30" y="308" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#06B6D4">03</text>
 <text x="70" y="309" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Backend</text>
-<text x="30" y="344" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>Node.js</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Fastify</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Boot</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Security (JWT)</tspan></text>
+<text x="30" y="344" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>Spring Boot</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Security (JWT)</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Node.js</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Fastify</tspan></text>
 <path d="M30 370H570" stroke="#1F2733"/>
 </g>
 <g class="r3">
 <text x="30" y="410" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#06B6D4">04</text>
 <text x="70" y="411" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Dados</text>
-<text x="30" y="446" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>PostgreSQL</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Prisma</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Flyway</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Data JPA</tspan></text>
+<text x="30" y="446" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>PostgreSQL</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Data JPA</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Prisma</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Flyway</tspan></text>
 <path d="M30 472H570" stroke="#1F2733"/>
 </g>
 <g class="r4">
 <text x="30" y="512" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#06B6D4">05</text>
-<text x="70" y="513" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Infra</text>
-<text x="30" y="548" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>Docker</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Git</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Vercel</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Render</tspan></text>
+<text x="70" y="513" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Qualidade</text>
+<text x="30" y="548" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>Jest</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Testing Library</tspan><tspan fill="#8B95A5"> · </tspan><tspan>JUnit</tspan><tspan fill="#8B95A5"> · </tspan><tspan>JaCoCo</tspan></text>
+<path d="M30 574H570" stroke="#1F2733"/>
 </g>
 <g class="r5">
-<rect x="16" y="582" width="568" height="88" rx="10" fill="#84CC16" fill-opacity="0.05" stroke="#84CC16" stroke-opacity="0.5" stroke-dasharray="4 4"/>
-<text x="30" y="614" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#84CC16">06</text>
-<text x="70" y="615" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#84CC16">Em estudo</text>
-<text x="30" y="650" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>Python</tspan><tspan fill="#8B95A5"> · </tspan><tspan>RAG</tspan><tspan fill="#8B95A5"> · </tspan><tspan>IA aplicada</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Ciência de Dados</tspan></text>
+<text x="30" y="614" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#06B6D4">06</text>
+<text x="70" y="615" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Infra</text>
+<text x="30" y="650" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>Docker</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Git</tspan><tspan fill="#8B95A5"> · </tspan><tspan>GitHub Actions</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Vercel</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Render</tspan></text>
+</g>
+<g class="r6">
+<rect x="16" y="684" width="568" height="88" rx="10" fill="#84CC16" fill-opacity="0.05" stroke="#84CC16" stroke-opacity="0.5" stroke-dasharray="4 4"/>
+<text x="30" y="716" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" fill="#84CC16">07</text>
+<text x="70" y="717" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#84CC16">Em estudo</text>
+<text x="30" y="752" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="20" fill="#F4F4F5"><tspan>RAG</tspan><tspan fill="#8B95A5"> · </tspan><tspan>IA aplicada</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Ciência de Dados</tspan></text>
 </g>
 </svg>

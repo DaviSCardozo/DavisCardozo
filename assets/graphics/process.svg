@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 464" width="1000" height="464" role="img" aria-label="Folha de processo — trajetória profissional: operação 10: Jornaleiro (3+ anos) — Atender gente todo dia, cedo, sem falhar: constância.; operação 20: Auxiliar de produção — O chão de fábrica: ritmo, processo e trabalho em equipe.; operação 30: Operador de máquina — Responder pelo resultado: padrão, qualidade e segurança.; operação 40: Montador mecânico — Sentir na mão o erro de projeto: quem monta paga a conta.; operação 50: Desenhista detalhista — Precisão e norma: o desenho é um contrato com quem fabrica.; operação 60: Projetista mecânico (júnior → pleno → sênior) — Decidir a solução inteira e responder por ela.; operação 70: Desenvolvedor Full Stack (em transição · agora) — A mesma mentalidade, em um novo material.">
+<title>Folha de processo — trajetória profissional: operação 10: Jornaleiro (3+ anos) — Atender gente todo dia, cedo, sem falhar: constância.; operação 20: Auxiliar de produção — O chão de fábrica: ritmo, processo e trabalho em equipe.; operação 30: Operador de máquina — Responder pelo resultado: padrão, qualidade e segurança.; operação 40: Montador mecânico — Sentir na mão o erro de projeto: quem monta paga a conta.; operação 50: Desenhista detalhista — Precisão e norma: o desenho é um contrato com quem fabrica.; operação 60: Projetista mecânico (júnior → pleno → sênior) — Decidir a solução inteira e responder por ela.; operação 70: Desenvolvedor Full Stack (em transição · agora) — A mesma mentalidade, em um novo material.</title>
+<style>@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}.blink{animation:blink 2.4s ease-in-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="999" height="463" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="999" height="463" rx="16" fill="url(#grid)"/>
+<text x="32" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#06B6D4" letter-spacing="2.5">FOLHA DE PROCESSO · TRAJETÓRIA</text>
+<text x="968" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" text-anchor="end" letter-spacing="2.5">CADA OPERAÇÃO PREPARA A SEGUINTE</text>
+<text x="32" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">OP.</text>
+<text x="150" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">ETAPA</text>
+<text x="480" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">O QUE FICOU</text>
+<path d="M32 86H968" stroke="#3B4252"/>
+<path d="M118 112.0V424.0" stroke="#3B4252" stroke-width="1.4"/>
+<text x="32" y="117" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#06B6D4" letter-spacing="0.5">OP. 10</text>
+<circle cx="118" cy="112.0" r="5.5" fill="#0D1117" stroke="#06B6D4" stroke-width="1.8"/>
+<text x="150" y="111" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">Jornaleiro</text>
+<text x="150" y="128" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="1.6">3+ ANOS</text>
+<text x="480" y="118" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Atender gente todo dia, cedo, sem falhar: constância.</text>
+<path d="M150 138H968" stroke="#1F2733"/>
+<text x="32" y="169" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#06B6D4" letter-spacing="0.5">OP. 20</text>
+<circle cx="118" cy="164.0" r="5.5" fill="#0D1117" stroke="#06B6D4" stroke-width="1.8"/>
+<text x="150" y="170" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">Auxiliar de produção</text>
+<text x="480" y="170" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">O chão de fábrica: ritmo, processo e trabalho em equipe.</text>
+<path d="M150 190H968" stroke="#1F2733"/>
+<text x="32" y="221" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#06B6D4" letter-spacing="0.5">OP. 30</text>
+<circle cx="118" cy="216.0" r="5.5" fill="#0D1117" stroke="#06B6D4" stroke-width="1.8"/>
+<text x="150" y="222" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">Operador de máquina</text>
+<text x="480" y="222" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Responder pelo resultado: padrão, qualidade e segurança.</text>
+<path d="M150 242H968" stroke="#1F2733"/>
+<text x="32" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#06B6D4" letter-spacing="0.5">OP. 40</text>
+<circle cx="118" cy="268.0" r="5.5" fill="#0D1117" stroke="#06B6D4" stroke-width="1.8"/>
+<text x="150" y="274" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">Montador mecânico</text>
+<text x="480" y="274" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Sentir na mão o erro de projeto: quem monta paga a conta.</text>
+<path d="M150 294H968" stroke="#1F2733"/>
+<text x="32" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#06B6D4" letter-spacing="0.5">OP. 50</text>
+<circle cx="118" cy="320.0" r="5.5" fill="#0D1117" stroke="#06B6D4" stroke-width="1.8"/>
+<text x="150" y="326" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">Desenhista detalhista</text>
+<text x="480" y="326" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Precisão e norma: o desenho é um contrato com quem fabrica.</text>
+<path d="M150 346H968" stroke="#1F2733"/>
+<text x="32" y="377" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#06B6D4" letter-spacing="0.5">OP. 60</text>
+<circle cx="118" cy="372.0" r="5.5" fill="#0D1117" stroke="#06B6D4" stroke-width="1.8"/>
+<text x="150" y="371" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#F4F4F5">Projetista mecânico</text>
+<text x="150" y="388" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="1.6">JÚNIOR → PLENO → SÊNIOR</text>
+<text x="480" y="378" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Decidir a solução inteira e responder por ela.</text>
+<rect x="20" y="403" width="960" height="44" rx="8" fill="#84CC16" fill-opacity="0.05" stroke="#84CC16" stroke-opacity="0.5" stroke-dasharray="4 4"/>
+<text x="32" y="429" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#84CC16" letter-spacing="0.5">OP. 70</text>
+<circle cx="118" cy="424.0" r="5.5" fill="#84CC16" stroke="#84CC16" stroke-width="1.8" class="blink"/>
+<text x="150" y="423" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#84CC16">Desenvolvedor Full Stack</text>
+<text x="150" y="440" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="1.6">EM TRANSIÇÃO · AGORA</text>
+<text x="480" y="430" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#F4F4F5">A mesma mentalidade, em um novo material.</text>
+</svg>

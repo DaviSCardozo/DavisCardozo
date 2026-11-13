@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 778" width="600" height="778" role="img" aria-label="Folha de processo — trajetória profissional: operação 10: Jornaleiro (3+ anos) — Atender gente todo dia, cedo, sem falhar: constância.; operação 20: Auxiliar de produção — O chão de fábrica: ritmo, processo e trabalho em equipe.; operação 30: Operador de máquina — Responder pelo resultado: padrão, qualidade e segurança.; operação 40: Montador mecânico — Sentir na mão o erro de projeto: quem monta paga a conta.; operação 50: Desenhista detalhista — Precisão e norma: o desenho é um contrato com quem fabrica.; operação 60: Projetista mecânico (júnior → pleno → sênior) — Decidir a solução inteira e responder por ela.; operação 70: Desenvolvedor Full Stack (em transição · agora) — A mesma mentalidade, em um novo material.">
+<title>Folha de processo — trajetória profissional: operação 10: Jornaleiro (3+ anos) — Atender gente todo dia, cedo, sem falhar: constância.; operação 20: Auxiliar de produção — O chão de fábrica: ritmo, processo e trabalho em equipe.; operação 30: Operador de máquina — Responder pelo resultado: padrão, qualidade e segurança.; operação 40: Montador mecânico — Sentir na mão o erro de projeto: quem monta paga a conta.; operação 50: Desenhista detalhista — Precisão e norma: o desenho é um contrato com quem fabrica.; operação 60: Projetista mecânico (júnior → pleno → sênior) — Decidir a solução inteira e responder por ela.; operação 70: Desenvolvedor Full Stack (em transição · agora) — A mesma mentalidade, em um novo material.</title>
+<style>@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}.blink{animation:blink 2.4s ease-in-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="599" height="777" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="599" height="777" rx="16" fill="url(#grid)"/>
+<text x="30" y="46" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4" letter-spacing="2.5">FOLHA DE PROCESSO · TRAJETÓRIA</text>
+<path d="M30 64H570" stroke="#3B4252"/>
+<text x="30" y="94" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#06B6D4" letter-spacing="1.2">OP. 10 · 3+ ANOS</text>
+<text x="30" y="122" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Jornaleiro</text>
+<text x="30" y="147" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16.5" fill="#8B95A5">Atender gente todo dia, cedo, sem falhar: constância.</text>
+<path d="M30 164H570" stroke="#1F2733"/>
+<text x="30" y="194" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#06B6D4" letter-spacing="1.2">OP. 20</text>
+<text x="30" y="222" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Auxiliar de produção</text>
+<text x="30" y="247" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">O chão de fábrica: ritmo, processo e trabalho em equipe.</text>
+<path d="M30 264H570" stroke="#1F2733"/>
+<text x="30" y="294" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#06B6D4" letter-spacing="1.2">OP. 30</text>
+<text x="30" y="322" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Operador de máquina</text>
+<text x="30" y="347" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Responder pelo resultado: padrão, qualidade e segurança.</text>
+<path d="M30 364H570" stroke="#1F2733"/>
+<text x="30" y="394" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#06B6D4" letter-spacing="1.2">OP. 40</text>
+<text x="30" y="422" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Montador mecânico</text>
+<text x="30" y="447" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Sentir na mão o erro de projeto: quem monta paga a conta.</text>
+<path d="M30 464H570" stroke="#1F2733"/>
+<text x="30" y="494" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#06B6D4" letter-spacing="1.2">OP. 50</text>
+<text x="30" y="522" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Desenhista detalhista</text>
+<text x="30" y="547" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="15.5" fill="#8B95A5">Precisão e norma: o desenho é um contrato com quem fabrica.</text>
+<path d="M30 564H570" stroke="#1F2733"/>
+<text x="30" y="594" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#06B6D4" letter-spacing="1.2">OP. 60 · JÚNIOR → PLENO → SÊNIOR</text>
+<text x="30" y="622" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#F4F4F5">Projetista mecânico</text>
+<text x="30" y="647" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16.5" fill="#8B95A5">Decidir a solução inteira e responder por ela.</text>
+<rect x="16" y="670" width="568" height="90" rx="10" fill="#84CC16" fill-opacity="0.05" stroke="#84CC16" stroke-opacity="0.5" stroke-dasharray="4 4"/>
+<text x="30" y="694" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#84CC16" letter-spacing="1.2">OP. 70 · EM TRANSIÇÃO · AGORA</text>
+<text x="30" y="722" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" fill="#84CC16">Desenvolvedor Full Stack</text>
+<text x="30" y="747" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16.5" fill="#F4F4F5">A mesma mentalidade, em um novo material.</text>
+</svg>

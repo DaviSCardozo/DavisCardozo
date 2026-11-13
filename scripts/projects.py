@@ -110,16 +110,54 @@ def art_elite():
     return "\n".join(o), css
 
 
+def art_smart():
+    """O mesmo produto em três redes: a barra mais curta é o menor preço."""
+    o = []
+    x0, y0 = 640, 50
+    # produto + código de barras (EAN)
+    o.append(f'<rect x="{x0}" y="{y0}" width="312" height="62" rx="10" fill="{PANEL}" stroke="{SLATE}"/>')
+    o.append(mono(x0 + 16, y0 + 24, "MESMO PRODUTO", size=8.5, fill=MUTED, ls=1.6))
+    o.append(f'<path d="M{x0+16} {y0+40}h120" stroke="{WHITE}" stroke-opacity="0.75" stroke-width="3" stroke-linecap="round"/>')
+    bars = [2, 1, 3, 1, 2, 1, 1, 3, 2, 1, 3, 1, 1, 2, 1, 3, 1, 2, 2, 1, 3, 1]
+    bx = x0 + 206
+    for i, wd in enumerate(bars):
+        if i % 2 == 0:
+            o.append(f'<rect x="{bx}" y="{y0+13}" width="{wd*1.6:.1f}" height="28" fill="{WHITE}"/>')
+        bx += wd * 1.6 + 1.2
+    o.append(mono(x0 + 206, y0 + 53, "EAN-13", size=7.5, fill=MUTED, ls=2))
+    o.append(f'<rect class="scan" x="{x0+202}" y="{y0+12}" width="2" height="30" fill="{CYAN}"/>')
+    # três redes
+    rows = [("REDE A", 226, False), ("REDE B", 168, True), ("REDE C", 262, False)]
+    for i, (name, w, best) in enumerate(rows):
+        y = y0 + 96 + i * 50
+        o.append(mono(x0, y + 4, name, size=9, fill=LIME if best else MUTED, ls=1.6))
+        o.append(f'<rect x="{x0+62}" y="{y-9}" width="250" height="18" rx="4" fill="none" stroke="{LINE}"/>')
+        o.append(f'<rect class="pb" style="animation-delay:{i*0.12:.2f}s" x="{x0+62}" y="{y-9}" width="{w*250/262:.0f}" height="18" rx="4" '
+                 f'fill="{LIME if best else SLATE}"/>')
+        if best:
+            o.append(mono(x0 + 62 + w * 250 / 262 + 10, y + 4, "MENOR PREÇO", size=8.5, fill=LIME, ls=1.6))
+    o.append(mono(x0, y0 + 240, "8 REDES DO RS · CASAMENTO POR EAN", size=8.5, fill=MUTED, ls=1.6))
+    css = ("@keyframes scan{0%,100%{transform:translateX(0)}50%{transform:translateX(88px)}}"
+           ".scan{animation:scan 3.2s ease-in-out infinite}"
+           "@keyframes pb{from{transform:scaleX(.55)}to{transform:scaleX(1)}}"
+           f".pb{{transform-origin:{x0+62}px 0;animation:pb .9s cubic-bezier(.2,.8,.2,1) both}}")
+    return "\n".join(o), css
+
+
 PROJECTS = [
-    dict(slug="verzel-pass", n=1, rev="REV. B", name="Verzel Pass", art=art_verzel,
+    dict(slug="smartmarket", n=1, rev="EM EQUIPE", name="SmartMarket", art=art_smart,
+         lines=["Comparador de preços entre supermercados do Rio Grande",
+                "do Sul: a mesma lista de compras, no mercado mais barato."],
+         stack=["React 19", "Spring Boot 4", "Python", "PostgreSQL"]),
+    dict(slug="verzel-pass", n=2, rev="REV. B", name="Verzel Pass", art=art_verzel,
          lines=["Venda, gestão e validação de ingressos em tempo real:",
                 "mapa de assentos, QR Code e controle de concorrência."],
          stack=["Next.js 16", "Fastify 5", "Prisma", "PostgreSQL"]),
-    dict(slug="finance-control", n=2, rev="MVP", name="FinanceControl", art=art_finance,
+    dict(slug="finance-control", n=3, rev="MVP", name="FinanceControl", art=art_finance,
          lines=["Controle financeiro pessoal em formato de planilha,",
                 "com o saldo projetado até o fim do mês."],
          stack=["Java 17", "Spring Boot 3", "React 18", "PostgreSQL"]),
-    dict(slug="elite-events", n=3, rev="REV. A", name="Elite Events Platform", art=art_elite,
+    dict(slug="elite-events", n=4, rev="REV. A", name="Elite Events Platform", art=art_elite,
          lines=["O desafio técnico original: eventos e ingressos com",
                 "autenticação, RBAC, QR Code e API externa (TMDb)."],
          stack=["Next.js", "Fastify", "Prisma", "PostgreSQL"]),
