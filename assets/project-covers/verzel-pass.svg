@@ -1,0 +1,40 @@
+<svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Verzel Pass — Redesign">
+  <defs>
+    <linearGradient id="bar-verzel-pass" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#84CC16"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze"/>
+    <rect x="1" y="1" width="998" height="218" rx="14" fill="#0d121c" stroke="#1b2432" stroke-width="1"/>
+    <rect x="1" y="1" width="8" height="218" rx="4" fill="url(#bar-verzel-pass)"/>
+
+    <g transform="translate(40,30)" color="#84CC16">
+      
+      <path d="M14 30 h44 a4 4 0 0 1 4 4 a7 7 0 0 0 0 14 a4 4 0 0 1 -4 4 h-44 a4 4 0 0 1 -4 -4 a7 7 0 0 0 0 -14 a4 4 0 0 1 4 -4 z" fill="none" stroke="currentColor" stroke-width="2.2"/>
+      <line x1="36" y1="30" x2="36" y2="52" stroke="currentColor" stroke-width="2.2" stroke-dasharray="3 4"/>
+      <rect x="44" y="36" width="12" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/>
+      <rect x="47" y="39" width="2.4" height="2.4" fill="currentColor"/>
+      <rect x="51.6" y="39" width="2.4" height="2.4" fill="currentColor"/>
+      <rect x="47" y="43.6" width="2.4" height="2.4" fill="currentColor"/>
+    
+    </g>
+
+    <rect x="893.2" y="28" width="56.8" height="26" rx="13" fill="none" stroke="#84CC16" stroke-width="1.3"/>
+    <text x="921.6" y="45.5" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" letter-spacing="1.2" fill="#84CC16" text-anchor="middle">LIVE</text>
+
+    <text x="40" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#F4F4F5">Verzel Pass — Redesign</text>
+    <text x="40" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9aa5b4">
+      <tspan x="40" dy="0">Plataforma de ingressos em tempo real: QR Code, mapa de assentos,</tspan>
+      <tspan x="40" dy="21">concorrência segura e auditoria própria de seguranca.</tspan>
+    </text>
+
+    <g font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" fill="#aeb9c7">
+      <rect x="40.0" y="180" width="86.0" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="83.0" y="196" text-anchor="middle">Next.js 16</text>
+      <rect x="136.0" y="180" width="64.4" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="168.2" y="196" text-anchor="middle">Fastify</text>
+      <rect x="210.4" y="180" width="57.2" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="239.0" y="196" text-anchor="middle">Prisma</text>
+      <rect x="277.6" y="180" width="86.0" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="320.6" y="196" text-anchor="middle">PostgreSQL</text>
+    </g>
+  </g>
+</svg>

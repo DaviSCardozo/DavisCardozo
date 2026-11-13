@@ -1,0 +1,16 @@
+<svg viewBox="0 0 1600 50" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divisor">
+  <defs>
+    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#84CC16" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="24" y1="25" x2="1576" y2="25" stroke="#1b2432" stroke-width="1"/>
+  <line x1="24" y1="18" x2="24" y2="32" stroke="#334155" stroke-width="1"/>
+  <line x1="1576" y1="18" x2="1576" y2="32" stroke="#334155" stroke-width="1"/>
+  <circle cx="800" cy="25" r="3" fill="#334155"/>
+  <rect x="-220" y="16" width="220" height="18" fill="url(#pulse)">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="1820 0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>

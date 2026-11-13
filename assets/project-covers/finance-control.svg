@@ -1,0 +1,41 @@
+<svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="FinanceControl">
+  <defs>
+    <linearGradient id="bar-finance-control" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#84CC16"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze"/>
+    <rect x="1" y="1" width="998" height="218" rx="14" fill="#0d121c" stroke="#1b2432" stroke-width="1"/>
+    <rect x="1" y="1" width="8" height="218" rx="4" fill="url(#bar-finance-control)"/>
+
+    <g transform="translate(40,30)" color="#84CC16">
+      
+      <path d="M14 56 V22" stroke="currentColor" stroke-width="2.2" fill="none"/>
+      <path d="M14 56 H58" stroke="currentColor" stroke-width="2.2" fill="none"/>
+      <rect x="21" y="40" width="7" height="16" fill="currentColor" opacity="0.85"/>
+      <rect x="33" y="30" width="7" height="26" fill="currentColor" opacity="0.85"/>
+      <rect x="45" y="36" width="7" height="20" fill="currentColor" opacity="0.85"/>
+      <path d="M20 34 L32 24 L41 29 L56 16" fill="none" stroke="currentColor" stroke-width="2" opacity="0.9"/>
+      <path d="M48 16 H56 V24" fill="none" stroke="currentColor" stroke-width="2"/>
+    
+    </g>
+
+    <rect x="893.2" y="28" width="56.8" height="26" rx="13" fill="none" stroke="#84CC16" stroke-width="1.3"/>
+    <text x="921.6" y="45.5" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" letter-spacing="1.2" fill="#84CC16" text-anchor="middle">LIVE</text>
+
+    <text x="40" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#F4F4F5">FinanceControl</text>
+    <text x="40" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9aa5b4">
+      <tspan x="40" dy="0">Controle financeiro pessoal com saldo projetado, dashboards e tabela</tspan>
+      <tspan x="40" dy="21">estilo planilha em tempo real.</tspan>
+    </text>
+
+    <g font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" fill="#aeb9c7">
+      <rect x="40.0" y="180" width="93.2" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="86.6" y="196" text-anchor="middle">Spring Boot</text>
+      <rect x="143.2" y="180" width="50.0" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="168.2" y="196" text-anchor="middle">React</text>
+      <rect x="203.2" y="180" width="114.8" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="260.6" y="196" text-anchor="middle">TanStack Table</text>
+      <rect x="328.0" y="180" width="71.6" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="363.8" y="196" text-anchor="middle">Recharts</text>
+    </g>
+  </g>
+</svg>

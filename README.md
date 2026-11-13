@@ -1,128 +1,127 @@
 <div align="center">
 
-  <!-- Banner de Cabeçalho -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=🧠%20Davi%20dos%20Santos%20Cardozo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
-
-  <h3>💻 Desenvolvedor Full Stack | IA Aplicada | Engenharia de Dados</h3>
-
-  <p>
-    <a href="https://www.linkedin.com/in/davi-cardozo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/DaviSCardozo/portfolio-ia"><img src="https://img.shields.io/badge/AI_Portfolio-0052CC?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio IA" /></a>
-    <a href="mailto:dev.davicardozo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  </p>
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/banners/hero-banner.svg" width="100%" alt="Davi Cardozo — Engenharia para Engenharia de Software" />
 
 </div>
 
-<br />
-
----
-
-## 🎯 Sobre Mim
-
-Olá! Sou **Davi dos Santos Cardozo**. 🚀
-
-Graduado em **Análise e Desenvolvimento de Sistemas** e Pós-graduando em **Ciência de Dados e Big Data Analytics**. Atualmente participo do **Bootcamp Full Stack +praTi** e dedico meu desenvolvimento à criação de aplicações de alta performance, integrações com Inteligência Artificial e sistemas escaláveis.
-
-- 💻 **Foco de Atuação:** Desenvolvimento Full Stack (Java/Spring Boot, React/TypeScript, Node.js)
-- 🤖 **IA & Dados:** Desenvolvimento assistido por IA, RAG, Engenharia de Prompts e Ciência de Dados
-- 🎯 **Objetivo Atual:** Oportunidade como Desenvolvedor Full Stack Estágio / Júnior
-
----
-
-## 🌟 Projetos em Destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💰 Finance Control</h3>
-      <p align="center"><b>Status:</b> 🚧 Em Desenvolvimento</p>
-      <p>Aplicação completa de controle financeiro com arquitetura desacoplada em <b>Java (Spring Boot)</b> no backend e <b>React / TypeScript / Vite / TailwindCSS</b> no frontend.</p>
-      <p align="center">
-        <a href="https://github.com/DaviSCardozo/finance-control">
-          <img src="https://img.shields.io/badge/Ver_Repositório-0052CC?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Portfolio Hub</h3>
-      <p align="center"><b>Status:</b> 🌟 Ativo</p>
-      <p>Repositório central e showcase para organização de todos os meus projetos desenvolvidos com auxílio de Inteligência Artificial, RAG e Agentes Autônomos.</p>
-      <p align="center">
-        <a href="https://github.com/DaviSCardozo/portfolio-ia">
-          <img src="https://img.shields.io/badge/Ver_Hub-0052CC?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤖 Tecnologias & Ferramentas
-
-### 💻 Linguagens & Frameworks
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,react,vite,tailwind,nodejs,python,express,html,css" />
-</div>
-
-<br/>
-
-### 🛠️ Banco de Dados, DevOps & Ferramentas
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode,postman,linux,vercel" />
-</div>
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DaviSCardozo&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DaviSCardozo&layout=compact&langs_count=8&theme=tokyonight" alt="Principais Linguagens" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviSCardozo&theme=tokyonight" alt="Sequência de Contribuições" />
-</div>
-
----
-
-## 🎯 Objetivos
-
-- [x] Concluir graduação em Análise e Desenvolvimento de Sistemas
-- [x] Iniciar Pós-graduação em Ciência de Dados & Big Data Analytics
-- [x] Estruturar projeto Full Stack **Finance Control** (Java + React)
-- [ ] Concluir a Trilha Full Stack +praTi
-- [ ] Implementar projetos avançados com Agentes de IA e RAG
-- [ ] Conquistar oportunidade como Desenvolvedor Full Stack
-
----
-
-## 📫 Vamos nos conectar?
-
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/davi-cardozo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Davi Cardozo" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:dev.davicardozo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail Davi Cardozo" />
-  </a>
-
-  <br/><br/>
-
-  ✉️ **E-mail:** `dev.davicardozo@gmail.com`
+<sub>RIO GRANDE DO SUL, BRASIL · PROJETISTA MECÂNICO → DESENVOLVEDOR FULL STACK</sub>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <!-- Banner Inferior -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=100&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
 
-  <p><b>Persistência • Visão • Determinação</b> 🐺 + 🦅 + 🦁</p>
+### <sub>CAPÍTULO 01 · IDENTIDADE</sub>
+
+Sou **Davi dos Santos Cardozo**, desenvolvedor Full Stack em transição de carreira, com mais de 10 anos de bagagem técnica na indústria como projetista mecânico. Hoje essa bagagem está a serviço de software: a mesma leitura cuidadosa de tolerância, estrutura e consequência — aplicada a sistemas em vez de peças.
+
+Graduado em **Análise e Desenvolvimento de Sistemas**, pós-graduando em **Ciência de Dados e Big Data Analytics**, e atualmente cursando o **Bootcamp Full Stack +praTi**. Em busca de uma oportunidade como **Desenvolvedor Full Stack Estágio/Júnior**.
+
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+
+### <sub>CAPÍTULO 02 · ORIGEM</sub>
+
+Passei mais de uma década desenhando peças mecânicas: tolerâncias milimétricas, montagens que precisam encaixar na primeira tentativa, documentação técnica que outra pessoa vai depender para não errar. Engenharia, nesse sentido, nunca foi sobre criatividade livre — era sobre precisão dentro de restrições.
+
+A migração para desenvolvimento de software não foi um recomeço, foi uma troca de material: trocar aço e desenho técnico por tipos, contratos de API e banco de dados. As perguntas continuam as mesmas — *o que pode falhar aqui? o que essa peça precisa garantir para quem monta em cima dela?* — só que agora a peça é um endpoint, uma migration, uma trava de concorrência.
+
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+
+### <sub>CAPÍTULO 03 · ENGINEERING MINDSET</sub>
+
+Como eu construo:
+
+- **Planejamento antes de código.** Escopo e prioridades são discutidos e cortados deliberadamente antes da primeira linha — inclusive abrindo mão de complexidade desnecessária quando ela não resolve um problema real do projeto.
+- **IA como par de desenvolvimento, não como atalho.** Em projetos como o *Verzel Pass* e o *Elite Events Platform*, cada trecho gerado é revisado, testado manualmente e só então commitado — nenhuma função é considerada pronta sem validação própria.
+- **Decisões técnicas documentadas.** Trade-offs de arquitetura (o que foi escolhido, o que foi descartado e por quê) ficam registrados junto do código, não apenas na minha cabeça.
+- **Segurança como etapa, não como reflexo.** O *Verzel Pass* passou por auditoria estática própria cobrindo isolamento de dados, RBAC, IDOR, gestão de segredos e XSS — com relatório técnico versionado no repositório.
+
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+
+### <sub>CAPÍTULO 04 · TECHNOLOGY</sub>
+
+**Languages**
+<br/>
+![Java](https://img.shields.io/badge/-Java-3B4252?style=flat-square&logo=openjdk&logoColor=84CC16) ![TypeScript](https://img.shields.io/badge/-TypeScript-3B4252?style=flat-square&logo=typescript&logoColor=06B6D4) ![JavaScript](https://img.shields.io/badge/-JavaScript-3B4252?style=flat-square&logo=javascript&logoColor=84CC16) ![Python](https://img.shields.io/badge/-Python-3B4252?style=flat-square&logo=python&logoColor=06B6D4) ![SQL](https://img.shields.io/badge/-SQL-3B4252?style=flat-square&logo=postgresql&logoColor=84CC16)
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/-React-3B4252?style=flat-square&logo=react&logoColor=06B6D4) ![Next.js](https://img.shields.io/badge/-Next.js-3B4252?style=flat-square&logo=nextdotjs&logoColor=F4F4F5) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-3B4252?style=flat-square&logo=tailwindcss&logoColor=84CC16) ![Vite](https://img.shields.io/badge/-Vite-3B4252?style=flat-square&logo=vite&logoColor=06B6D4)
+
+**Backend**
+<br/>
+![Spring](https://img.shields.io/badge/-Spring_Boot-3B4252?style=flat-square&logo=springboot&logoColor=84CC16) ![Node.js](https://img.shields.io/badge/-Node.js-3B4252?style=flat-square&logo=nodedotjs&logoColor=06B6D4) ![Fastify](https://img.shields.io/badge/-Fastify-3B4252?style=flat-square&logo=fastify&logoColor=F4F4F5)
+
+**Database**
+<br/>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3B4252?style=flat-square&logo=postgresql&logoColor=06B6D4) ![Prisma](https://img.shields.io/badge/-Prisma-3B4252?style=flat-square&logo=prisma&logoColor=F4F4F5) ![Flyway](https://img.shields.io/badge/-Flyway-3B4252?style=flat-square&logo=flyway&logoColor=84CC16)
+
+**Tools & Infra**
+<br/>
+![Docker](https://img.shields.io/badge/-Docker-3B4252?style=flat-square&logo=docker&logoColor=06B6D4) ![Git](https://img.shields.io/badge/-Git-3B4252?style=flat-square&logo=git&logoColor=84CC16) ![Vercel](https://img.shields.io/badge/-Vercel-3B4252?style=flat-square&logo=vercel&logoColor=F4F4F5) ![Render](https://img.shields.io/badge/-Render-3B4252?style=flat-square&logo=render&logoColor=06B6D4)
+
+**Learning**
+<br/>
+![RAG](https://img.shields.io/badge/-RAG-3B4252?style=flat-square&logo=langchain&logoColor=84CC16) ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-3B4252?style=flat-square&logo=openai&logoColor=06B6D4)
+
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+
+### <sub>CAPÍTULO 05 · SELECTED WORKS</sub>
+
+<a href="https://github.com/DaviSCardozo/verzel-pass-redesign">
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/verzel-pass.svg" width="100%" alt="Verzel Pass — Redesign" />
+</a>
+
+<sub>Evolução do desafio técnico <a href="https://github.com/DaviSCardozo/elite-events-platform"><b>Elite Events Platform</b></a> — construída após a entrega, como exercício de design de interface e blindagem de segurança. · <a href="https://verzel-pass-redesign.vercel.app">Demo ↗</a></sub>
+
+<br/><br/>
+
+<a href="https://github.com/DaviSCardozo/finance-control">
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/finance-control.svg" width="100%" alt="FinanceControl" />
+</a>
+
+<sub><a href="https://finance-control-eight-pi.vercel.app">Demo ↗</a> · <a href="https://finance-control-backend-jhdf.onrender.com/swagger-ui.html">API Docs ↗</a></sub>
+
+<br/><br/>
+
+<a href="https://github.com/DaviSCardozo/portfolio-ia">
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/ai-portfolio.svg" width="100%" alt="AI Portfolio Hub" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/DaviSCardozo/daily-dev-studies">
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/daily-dev-studies.svg" width="100%" alt="Daily Dev Studies" />
+</a>
+
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+
+### <sub>CAPÍTULO 06 · ACTIVITY</sub>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaviSCardozo&show_icons=true&hide_title=true&hide_border=true&bg_color=090D16&title_color=F4F4F5&text_color=9AA5B4&icon_color=84CC16&ring_color=06B6D4" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSCardozo&layout=compact&hide_border=true&bg_color=090D16&title_color=F4F4F5&text_color=9AA5B4&langs_count=8" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+
+### <sub>CAPÍTULO 07 · CONNECTION</sub>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/signature.svg" width="110" alt="DC" />
+
+<p>
+<a href="mailto:dev.davicardozo@gmail.com">dev.davicardozo@gmail.com</a> ·
+<a href="https://linkedin.com/in/davi-cardozo-2b1046288">LinkedIn</a> ·
+<a href="https://daviscardozo.github.io/landing-page-davi/">Landing Page</a>
+</p>
+
+<sub>Persistência • Visão • Determinação</sub>
+
 </div>
