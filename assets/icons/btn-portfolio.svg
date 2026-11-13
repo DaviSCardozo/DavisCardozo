@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 52" width="232" height="52" role="img" aria-label="Portfólio">
+<title>Portfólio</title>
+
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="231" height="51" rx="12" fill="#0D1117" stroke="#3B4252"/>
+<path d="M22 26h16m-6 -5l6 5l-6 5" stroke="#06B6D4" stroke-width="1.8" fill="none"/>
+<text x="52" y="31" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#F4F4F5" letter-spacing="2.2">PORTFÓLIO</text>
+</svg>

@@ -1,40 +1,85 @@
-<svg viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Verzel Pass — Redesign">
-  <defs>
-    <linearGradient id="bar-verzel-pass" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#06B6D4"/>
-      <stop offset="100%" stop-color="#84CC16"/>
-    </linearGradient>
-  </defs>
-  <g opacity="0">
-    <animate attributeName="opacity" from="0" to="1" dur="0.5s" fill="freeze"/>
-    <rect x="1" y="1" width="998" height="218" rx="14" fill="#0d121c" stroke="#1b2432" stroke-width="1"/>
-    <rect x="1" y="1" width="8" height="218" rx="4" fill="url(#bar-verzel-pass)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Verzel Pass — Venda, gestão e validação de ingressos em tempo real: mapa de assentos, QR Code e controle de concorrência. Stack: Next.js 16, Fastify 5, Prisma, PostgreSQL.">
+<title>Verzel Pass — Venda, gestão e validação de ingressos em tempo real: mapa de assentos, QR Code e controle de concorrência. Stack: Next.js 16, Fastify 5, Prisma, PostgreSQL.</title>
+<style>@keyframes scan{0%,100%{transform:translateY(0)}50%{transform:translateY(60px)}}.scan{animation:scan 3.2s ease-in-out infinite}@keyframes seat{0%,100%{fill-opacity:1}50%{fill-opacity:.45}}.seat{animation:seat 2.4s ease-in-out infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
 
-    <g transform="translate(40,30)" color="#84CC16">
-      
-      <path d="M14 30 h44 a4 4 0 0 1 4 4 a7 7 0 0 0 0 14 a4 4 0 0 1 -4 4 h-44 a4 4 0 0 1 -4 -4 a7 7 0 0 0 0 -14 a4 4 0 0 1 4 -4 z" fill="none" stroke="currentColor" stroke-width="2.2"/>
-      <line x1="36" y1="30" x2="36" y2="52" stroke="currentColor" stroke-width="2.2" stroke-dasharray="3 4"/>
-      <rect x="44" y="36" width="12" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="2"/>
-      <rect x="47" y="39" width="2.4" height="2.4" fill="currentColor"/>
-      <rect x="51.6" y="39" width="2.4" height="2.4" fill="currentColor"/>
-      <rect x="47" y="43.6" width="2.4" height="2.4" fill="currentColor"/>
-    
-    </g>
-
-    <rect x="893.2" y="28" width="56.8" height="26" rx="13" fill="none" stroke="#84CC16" stroke-width="1.3"/>
-    <text x="921.6" y="45.5" font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" letter-spacing="1.2" fill="#84CC16" text-anchor="middle">LIVE</text>
-
-    <text x="40" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#F4F4F5">Verzel Pass — Redesign</text>
-    <text x="40" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#9aa5b4">
-      <tspan x="40" dy="0">Plataforma de ingressos em tempo real: QR Code, mapa de assentos,</tspan>
-      <tspan x="40" dy="21">concorrência segura e auditoria própria de seguranca.</tspan>
-    </text>
-
-    <g font-family="'SFMono-Regular',Consolas,Menlo,monospace" font-size="11.5" fill="#aeb9c7">
-      <rect x="40.0" y="180" width="86.0" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="83.0" y="196" text-anchor="middle">Next.js 16</text>
-      <rect x="136.0" y="180" width="64.4" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="168.2" y="196" text-anchor="middle">Fastify</text>
-      <rect x="210.4" y="180" width="57.2" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="239.0" y="196" text-anchor="middle">Prisma</text>
-      <rect x="277.6" y="180" width="86.0" height="24" rx="12" fill="none" stroke="#1f2a38"/><text x="320.6" y="196" text-anchor="middle">PostgreSQL</text>
-    </g>
-  </g>
+</defs>
+<rect x="0.5" y="0.5" width="999" height="319" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="999" height="319" rx="16" fill="url(#grid)"/>
+<path d="M596 28V292" stroke="#1F2733"/>
+<g>
+<text x="40" y="58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#06B6D4" letter-spacing="2.5">PROJETO 01</text>
+<text x="141.22" y="58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="2.5">· REV. B</text>
+<text x="38" y="122" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#F4F4F5" letter-spacing="-0.6">Verzel Pass</text>
+<text x="40" y="164" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17.5" fill="#8B95A5">Venda, gestão e validação de ingressos em tempo real:</text>
+<text x="40" y="190" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17.5" fill="#8B95A5">mapa de assentos, QR Code e controle de concorrência.</text>
+<rect x="40.0" y="242" width="104.2" height="28" rx="14.0" fill="none" stroke="#3B4252"/>
+<text x="92.125" y="260.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F4F4F5" text-anchor="middle" letter-spacing="0.5">Next.js 16</text>
+<rect x="152.2" y="242" width="96.2" height="28" rx="14.0" fill="none" stroke="#3B4252"/>
+<text x="200.3625" y="260.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F4F4F5" text-anchor="middle" letter-spacing="0.5">Fastify 5</text>
+<rect x="256.5" y="242" width="72.1" height="28" rx="14.0" fill="none" stroke="#3B4252"/>
+<text x="292.55" y="260.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F4F4F5" text-anchor="middle" letter-spacing="0.5">Prisma</text>
+<rect x="336.6" y="242" width="104.2" height="28" rx="14.0" fill="none" stroke="#3B4252"/>
+<text x="388.75" y="260.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F4F4F5" text-anchor="middle" letter-spacing="0.5">PostgreSQL</text>
+</g>
+<rect x="632" y="58" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="663" y="58" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="694" y="58" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="725" y="58" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="756" y="58" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="787" y="58" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="818" y="58" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="849" y="58" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="880" y="58" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="911" y="58" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="632" y="89" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="663" y="89" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="694" y="89" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="725" y="89" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="756" y="89" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="787" y="89" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="818" y="89" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="849" y="89" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="880" y="89" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="911" y="89" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="632" y="120" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="663" y="120" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="694" y="120" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="725" y="120" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="756" y="120" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect class="seat" x="787" y="120" width="22" height="22" rx="5" fill="#84CC16"/>
+<rect x="818" y="120" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="849" y="120" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="880" y="120" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="911" y="120" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="632" y="151" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="663" y="151" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="694" y="151" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="725" y="151" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="756" y="151" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="787" y="151" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="818" y="151" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="849" y="151" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="880" y="151" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="911" y="151" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="632" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="663" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="694" y="182" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="725" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="756" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="787" y="182" width="22" height="22" rx="5" fill="#3B4252" fill-opacity="0.7"/>
+<rect x="818" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="849" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="880" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<rect x="911" y="182" width="22" height="22" rx="5" fill="none" stroke="#3B4252"/>
+<text x="632" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.6">MAPA DE ASSENTOS · 1 SELECIONADO</text>
+<path d="M724 202H944a8 8 0 0 1 8 8V286a8 8 0 0 1 -8 8H724a8 8 0 0 1 -8 -8V257.0a9 9 0 0 0 0 -18V210a8 8 0 0 1 8 -8Z" fill="#111722" stroke="#F4F4F5" stroke-width="1.6"/>
+<path d="M860 208V288" stroke="#F4F4F5" stroke-opacity="0.5" stroke-dasharray="3 5"/>
+<text x="738" y="230" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9" fill="#8B95A5" letter-spacing="2">INGRESSO</text>
+<path d="M738 246h96M738 260h64" stroke="#F4F4F5" stroke-opacity="0.7" stroke-width="3" stroke-linecap="round"/>
+<circle cx="742" cy="276" r="3.5" fill="#84CC16"/>
+<text x="752" y="279.5" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9" fill="#84CC16" letter-spacing="2">VÁLIDO</text>
+<rect x="876" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="882" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="888" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="894" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="906" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="912" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="918" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="924" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="218" width="6" height="6" fill="#F4F4F5"/><rect x="876" y="224" width="6" height="6" fill="#F4F4F5"/><rect x="888" y="224" width="6" height="6" fill="#F4F4F5"/><rect x="900" y="224" width="6" height="6" fill="#F4F4F5"/><rect x="912" y="224" width="6" height="6" fill="#F4F4F5"/><rect x="918" y="224" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="224" width="6" height="6" fill="#F4F4F5"/><rect x="876" y="230" width="6" height="6" fill="#F4F4F5"/><rect x="882" y="230" width="6" height="6" fill="#F4F4F5"/><rect x="888" y="230" width="6" height="6" fill="#F4F4F5"/><rect x="918" y="230" width="6" height="6" fill="#F4F4F5"/><rect x="924" y="230" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="230" width="6" height="6" fill="#F4F4F5"/><rect x="876" y="236" width="6" height="6" fill="#F4F4F5"/><rect x="900" y="236" width="6" height="6" fill="#F4F4F5"/><rect x="918" y="236" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="236" width="6" height="6" fill="#F4F4F5"/><rect x="900" y="242" width="6" height="6" fill="#F4F4F5"/><rect x="906" y="242" width="6" height="6" fill="#F4F4F5"/><rect x="918" y="242" width="6" height="6" fill="#F4F4F5"/><rect x="924" y="242" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="242" width="6" height="6" fill="#F4F4F5"/><rect x="876" y="248" width="6" height="6" fill="#F4F4F5"/><rect x="882" y="248" width="6" height="6" fill="#F4F4F5"/><rect x="894" y="248" width="6" height="6" fill="#F4F4F5"/><rect x="900" y="248" width="6" height="6" fill="#F4F4F5"/><rect x="906" y="248" width="6" height="6" fill="#F4F4F5"/><rect x="918" y="248" width="6" height="6" fill="#F4F4F5"/><rect x="924" y="248" width="6" height="6" fill="#F4F4F5"/><rect x="894" y="254" width="6" height="6" fill="#F4F4F5"/><rect x="900" y="254" width="6" height="6" fill="#F4F4F5"/><rect x="906" y="254" width="6" height="6" fill="#F4F4F5"/><rect x="924" y="254" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="254" width="6" height="6" fill="#F4F4F5"/><rect x="876" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="882" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="888" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="894" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="900" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="918" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="924" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="260" width="6" height="6" fill="#F4F4F5"/><rect x="876" y="266" width="6" height="6" fill="#F4F4F5"/><rect x="888" y="266" width="6" height="6" fill="#F4F4F5"/><rect x="894" y="266" width="6" height="6" fill="#F4F4F5"/><rect x="876" y="272" width="6" height="6" fill="#F4F4F5"/><rect x="882" y="272" width="6" height="6" fill="#F4F4F5"/><rect x="888" y="272" width="6" height="6" fill="#F4F4F5"/><rect x="894" y="272" width="6" height="6" fill="#F4F4F5"/><rect x="924" y="272" width="6" height="6" fill="#F4F4F5"/><rect x="930" y="272" width="6" height="6" fill="#F4F4F5"/>
+<rect class="scan" x="871" y="217" width="70" height="2.5" fill="#06B6D4"/>
 </svg>

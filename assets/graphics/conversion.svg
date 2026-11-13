@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 366" width="1000" height="366" role="img" aria-label="Tabela de conversão: tolerância dimensional vira tipos e validação; encaixe na montagem vira contratos de API; desenho técnico vira decisões documentadas; a pergunta &#x27;o que pode falhar aqui?&#x27; vira concorrência e segurança.">
+<title>Tabela de conversão: tolerância dimensional vira tipos e validação; encaixe na montagem vira contratos de API; desenho técnico vira decisões documentadas; a pergunta &#x27;o que pode falhar aqui?&#x27; vira concorrência e segurança.</title>
+<style>@keyframes flow{to{stroke-dashoffset:-48}}.flow{stroke-dasharray:10 14;animation:flow 2.4s linear infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="999" height="365" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="999" height="365" rx="16" fill="url(#grid)"/>
+<text x="32" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#06B6D4" letter-spacing="2.5">TABELA DE CONVERSÃO</text>
+<text x="968" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" text-anchor="end" letter-spacing="2.5">DE → PARA</text>
+<text x="32" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">NO PROJETO MECÂNICO</text>
+<text x="540" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">NO SOFTWARE</text>
+<path d="M32 86H968" stroke="#3B4252"/>
+<g class="r0">
+<text x="32" y="116" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">Tolerância dimensional</text>
+<text x="32" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.3">± 0,02 mm: o limite do aceitável</text>
+<path d="M352 119H506" stroke="#3B4252" stroke-width="1"/><path class="flow" d="M352 119H506" stroke="#06B6D4" stroke-width="1.6"/><path d="M514 119l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="540" y="116" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">Tipos e validação</text>
+<text x="540" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#84CC16" letter-spacing="0.3">TypeScript · Zod</text>
+<path d="M32 152H968" stroke="#1F2733"/>
+</g>
+<g class="r1">
+<text x="32" y="182" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">Encaixe na primeira montagem</text>
+<text x="32" y="202" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.3">interfaces entre peças</text>
+<path d="M352 185H506" stroke="#3B4252" stroke-width="1"/><path class="flow" d="M352 185H506" stroke="#06B6D4" stroke-width="1.6"/><path d="M514 185l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="540" y="182" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">Contratos de API</text>
+<text x="540" y="202" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#84CC16" letter-spacing="0.3">REST versionado · Swagger / OpenAPI</text>
+<path d="M32 218H968" stroke="#1F2733"/>
+</g>
+<g class="r2">
+<text x="32" y="248" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">Desenho técnico</text>
+<text x="32" y="268" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.3">o que o outro precisa para não errar</text>
+<path d="M352 251H506" stroke="#3B4252" stroke-width="1"/><path class="flow" d="M352 251H506" stroke="#06B6D4" stroke-width="1.6"/><path d="M514 251l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="540" y="248" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">Decisões documentadas</text>
+<text x="540" y="268" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#84CC16" letter-spacing="0.3">PRD · registro de problemas · README</text>
+<path d="M32 284H968" stroke="#1F2733"/>
+</g>
+<g class="r3">
+<text x="32" y="314" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">“O que pode falhar aqui?”</text>
+<text x="32" y="334" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.3">análise antes da fabricação</text>
+<path d="M352 317H506" stroke="#3B4252" stroke-width="1"/><path class="flow" d="M352 317H506" stroke="#06B6D4" stroke-width="1.6"/><path d="M514 317l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="540" y="314" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="19" font-weight="600" fill="#F4F4F5">Concorrência e segurança</text>
+<text x="540" y="334" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#84CC16" letter-spacing="0.3">SELECT … FOR UPDATE · auditoria RBAC / IDOR / XSS</text>
+</g>
+</svg>
