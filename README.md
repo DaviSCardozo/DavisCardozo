@@ -102,11 +102,8 @@ Como eu construo:
 #### CAPÍTULO 06 · ATIVIDADE
 
 <div align="center">
-  <!-- Gráfico de Contribuições gerais -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DaviSCardozo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-  <!-- Linguagens mais utilizadas -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSCardozo&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DaviSCardozo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSCardozo&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 ### <sub>CAPÍTULO 07 · CONNECTION</sub>
