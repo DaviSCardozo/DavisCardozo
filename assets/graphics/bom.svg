@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 412" width="1000" height="412" role="img" aria-label="Lista de materiais (stack): Linguagens: TypeScript, Java, JavaScript, SQL; Frontend: React, Next.js (App Router), Tailwind CSS, Vite; Backend: Node.js, Fastify, Spring Boot, Spring Security (JWT); Dados: PostgreSQL, Prisma, Flyway, Spring Data JPA; Infra: Docker, Git, Vercel, Render; Em estudo: Python, RAG, IA aplicada, Ciência de Dados. A última linha são tecnologias em estudo.">
+<title>Lista de materiais (stack): Linguagens: TypeScript, Java, JavaScript, SQL; Frontend: React, Next.js (App Router), Tailwind CSS, Vite; Backend: Node.js, Fastify, Spring Boot, Spring Security (JWT); Dados: PostgreSQL, Prisma, Flyway, Spring Data JPA; Infra: Docker, Git, Vercel, Render; Em estudo: Python, RAG, IA aplicada, Ciência de Dados. A última linha são tecnologias em estudo.</title>
+
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="999" height="411" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="999" height="411" rx="16" fill="url(#grid)"/>
+<text x="32" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#06B6D4" letter-spacing="2.5">LISTA DE MATERIAIS</text>
+<text x="968" y="40" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" text-anchor="end" letter-spacing="2.5">SOMENTE O QUE ESTÁ NO CÓDIGO</text>
+<text x="32" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">ITEM</text>
+<text x="96" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">CATEGORIA</text>
+<text x="250" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">COMPONENTES</text>
+<text x="748" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="2">COMPROVADO EM</text>
+<path d="M32 86H968" stroke="#3B4252"/>
+<g class="r0">
+<text x="32" y="118" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4">01</text>
+<text x="96" y="118" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#F4F4F5">Linguagens</text>
+<text x="250" y="118" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#F4F4F5"><tspan>TypeScript</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Java</tspan><tspan fill="#8B95A5"> · </tspan><tspan>JavaScript</tspan><tspan fill="#8B95A5"> · </tspan><tspan>SQL</tspan></text>
+<text x="748" y="117" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.2">verzel-pass · finance-control</text>
+<path d="M32 138H968" stroke="#1F2733"/>
+</g>
+<g class="r1">
+<text x="32" y="170" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4">02</text>
+<text x="96" y="170" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#F4F4F5">Frontend</text>
+<text x="250" y="170" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#F4F4F5"><tspan>React</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Next.js (App Router)</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Tailwind CSS</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Vite</tspan></text>
+<text x="748" y="169" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.2">verzel-pass · finance-control</text>
+<path d="M32 190H968" stroke="#1F2733"/>
+</g>
+<g class="r2">
+<text x="32" y="222" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4">03</text>
+<text x="96" y="222" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#F4F4F5">Backend</text>
+<text x="250" y="222" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#F4F4F5"><tspan>Node.js</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Fastify</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Boot</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Security (JWT)</tspan></text>
+<text x="748" y="221" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.2">verzel-pass · finance-control</text>
+<path d="M32 242H968" stroke="#1F2733"/>
+</g>
+<g class="r3">
+<text x="32" y="274" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4">04</text>
+<text x="96" y="274" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#F4F4F5">Dados</text>
+<text x="250" y="274" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#F4F4F5"><tspan>PostgreSQL</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Prisma</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Flyway</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Spring Data JPA</tspan></text>
+<text x="748" y="273" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.2">verzel-pass · finance-control</text>
+<path d="M32 294H968" stroke="#1F2733"/>
+</g>
+<g class="r4">
+<text x="32" y="326" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4">05</text>
+<text x="96" y="326" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#F4F4F5">Infra</text>
+<text x="250" y="326" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#F4F4F5"><tspan>Docker</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Git</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Vercel</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Render</tspan></text>
+<text x="748" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.2">deploys ativos</text>
+</g>
+<g class="r5">
+<rect x="20" y="352" width="960" height="40" rx="8" fill="#84CC16" fill-opacity="0.05" stroke="#84CC16" stroke-opacity="0.5" stroke-dasharray="4 4"/>
+<text x="32" y="378" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#84CC16">06</text>
+<text x="96" y="378" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" font-weight="700" fill="#84CC16">Em estudo</text>
+<text x="250" y="378" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17" fill="#F4F4F5"><tspan>Python</tspan><tspan fill="#8B95A5"> · </tspan><tspan>RAG</tspan><tspan fill="#8B95A5"> · </tspan><tspan>IA aplicada</tspan><tspan fill="#8B95A5"> · </tspan><tspan>Ciência de Dados</tspan></text>
+<text x="748" y="377" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="0.2">bootcamp · pós-graduação</text>
+</g>
+</svg>

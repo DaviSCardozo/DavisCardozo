@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" role="img" aria-label="Davi Cardozo — Toda peça boa começa com uma boa conversa. Persistência, visão, determinação. Próxima revisão: em andamento.">
+<title>Davi Cardozo — Toda peça boa começa com uma boa conversa. Persistência, visão, determinação. Próxima revisão: em andamento.</title>
+<style>@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}.blink{animation:blink 2.4s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}.spin{transform-origin:900px 105px;animation:spin 90s linear infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="999" height="209" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="999" height="209" rx="16" fill="url(#grid)"/>
+<clipPath id="fc"><rect x="1" y="1" width="998" height="208" rx="16"/></clipPath>
+<g clip-path="url(#fc)"><g class="spin" fill="none"><circle cx="900" cy="105" r="150" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="900" cy="105" r="103" stroke="#06B6D4" stroke-opacity="0.5" stroke-width="0.8" stroke-dasharray="12 4 2 4"/><circle cx="900" cy="105" r="50" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="1003.5" cy="105.0" r="13" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="1003.5" cy="105.0" r="4" fill="#84CC16" fill-opacity="0.8"/><circle cx="951.8" cy="194.6" r="13" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="951.8" cy="194.6" r="4" fill="#84CC16" fill-opacity="0.8"/><circle cx="848.2" cy="194.6" r="13" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="848.2" cy="194.6" r="4" fill="#84CC16" fill-opacity="0.8"/><circle cx="796.5" cy="105.0" r="13" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="796.5" cy="105.0" r="4" fill="#84CC16" fill-opacity="0.8"/><circle cx="848.2" cy="15.4" r="13" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="848.2" cy="15.4" r="4" fill="#84CC16" fill-opacity="0.8"/><circle cx="951.8" cy="15.4" r="13" stroke="#F4F4F5" stroke-opacity="0.5" stroke-width="1.6"/><circle cx="951.8" cy="15.4" r="4" fill="#84CC16" fill-opacity="0.8"/></g><path d="M710 105H1000M900 0V210" stroke="#06B6D4" stroke-opacity="0.35" stroke-width="0.8"/></g>
+<g transform="translate(36,34) scale(0.9)" fill="none">
+  <path d="M-6 40H102M48 -6V86" stroke="#3B4252" stroke-width="0.8" stroke-dasharray="10 3 2 3"/>
+  <path d="M18 18V62H30A22 22 0 0 0 30 18Z" stroke="#F4F4F5" stroke-width="5" stroke-linejoin="miter"/>
+  <path d="M77.6 24.4A22 22 0 1 0 77.6 55.6" stroke="#06B6D4" stroke-width="5"/>
+  <circle cx="48" cy="40" r="2.2" fill="#84CC16"/>
+</g>
+<text x="150" y="82" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#F4F4F5" letter-spacing="-0.3">Toda peça boa começa</text>
+<text x="150" y="118" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#F4F4F5" letter-spacing="-0.3">com uma boa conversa.</text>
+<text x="150" y="150" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="2.5">PERSISTÊNCIA · VISÃO · DETERMINAÇÃO</text>
+<path d="M36 172H700" stroke="#3B4252"/>
+<text x="36" y="191" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#8B95A5" letter-spacing="1.8">FOLHA 08 / 08</text>
+<circle class="blink" cx="174" cy="187.5" r="3.5" fill="#84CC16"/>
+<text x="186" y="191" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10" fill="#84CC16" letter-spacing="1.8">PRÓXIMA REVISÃO: EM ANDAMENTO</text>
+</svg>

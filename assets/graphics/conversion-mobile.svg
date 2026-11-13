@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="600" height="600" role="img" aria-label="Tabela de conversão: tolerância dimensional vira tipos e validação; encaixe na montagem vira contratos de API; desenho técnico vira decisões documentadas; a pergunta &#x27;o que pode falhar aqui?&#x27; vira concorrência e segurança.">
+<title>Tabela de conversão: tolerância dimensional vira tipos e validação; encaixe na montagem vira contratos de API; desenho técnico vira decisões documentadas; a pergunta &#x27;o que pode falhar aqui?&#x27; vira concorrência e segurança.</title>
+<style>@keyframes flow{to{stroke-dashoffset:-48}}.flow{stroke-dasharray:10 14;animation:flow 2.4s linear infinite}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="599" height="599" rx="16" fill="#0D1117" stroke="#1F2733"/>
+<rect x="0.5" y="0.5" width="599" height="599" rx="16" fill="url(#grid)"/>
+<text x="30" y="46" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#06B6D4" letter-spacing="2.5">TABELA DE CONVERSÃO</text>
+<path d="M30 64H570" stroke="#3B4252"/>
+<g class="r0">
+<text x="30" y="104" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#8B95A5">Tolerância dimensional</text>
+<path d="M40 116V140H62" stroke="#06B6D4" stroke-width="1.6" fill="none"/><path d="M70 140l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="82" y="149" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F4F4F5">Tipos e validação</text>
+<text x="82" y="176" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#84CC16">TypeScript · Zod</text>
+<path d="M30 196H570" stroke="#1F2733"/>
+</g>
+<g class="r1">
+<text x="30" y="236" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#8B95A5">Encaixe na primeira montagem</text>
+<path d="M40 248V272H62" stroke="#06B6D4" stroke-width="1.6" fill="none"/><path d="M70 272l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="82" y="281" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F4F4F5">Contratos de API</text>
+<text x="82" y="308" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#84CC16">REST versionado · Swagger / OpenAPI</text>
+<path d="M30 328H570" stroke="#1F2733"/>
+</g>
+<g class="r2">
+<text x="30" y="368" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#8B95A5">Desenho técnico</text>
+<path d="M40 380V404H62" stroke="#06B6D4" stroke-width="1.6" fill="none"/><path d="M70 404l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="82" y="413" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F4F4F5">Decisões documentadas</text>
+<text x="82" y="440" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" fill="#84CC16">PRD · registro de problemas · README</text>
+<path d="M30 460H570" stroke="#1F2733"/>
+</g>
+<g class="r3">
+<text x="30" y="500" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="600" fill="#8B95A5">“O que pode falhar aqui?”</text>
+<path d="M40 512V536H62" stroke="#06B6D4" stroke-width="1.6" fill="none"/><path d="M70 536l-10 -4.5v9z" fill="#06B6D4"/>
+<text x="82" y="545" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="700" fill="#F4F4F5">Concorrência e segurança</text>
+<text x="82" y="572" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.8" fill="#84CC16">SELECT … FOR UPDATE · auditoria RBAC / IDOR / XSS</text>
+</g>
+</svg>

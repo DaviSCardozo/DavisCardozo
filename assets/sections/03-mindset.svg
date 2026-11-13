@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 78" width="1000" height="78" role="img" aria-label="Folha 03 de 08 — ENGINEERING MINDSET">
+<title>Folha 03 de 08 — ENGINEERING MINDSET</title>
+<style>@keyframes prog{from{stroke-dashoffset:1}to{stroke-dashoffset:0}}@keyframes mark{from{transform:translateX(-354.0px)}to{transform:translateX(0)}}.prog{stroke-dasharray:1;animation:prog 1.4s cubic-bezier(.2,.8,.2,1) both}.mark{animation:mark 1.4s cubic-bezier(.2,.8,.2,1) both}@media (prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" fill="none" stroke="#F4F4F5" stroke-opacity="0.04"/></pattern>
+
+</defs>
+<rect x="0.5" y="0.5" width="999" height="77" rx="12" fill="#0D1117"/>
+<text x="28" y="44" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="30" font-weight="700" fill="#06B6D4">03</text>
+<path d="M78 20L68 50" stroke="#3B4252" stroke-width="1.5"/>
+<text x="92" y="44" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#F4F4F5" letter-spacing="3.5">ENGINEERING MINDSET</text>
+<text x="972" y="30" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="10.5" fill="#8B95A5" text-anchor="end" letter-spacing="1.8">FOLHA 03 / 08</text>
+<path d="M28.0 66v-9M39.8 66v-4M51.6 66v-4M63.4 66v-4M75.2 66v-4M87.0 66v-4M98.8 66v-4M110.6 66v-4M122.4 66v-4M134.2 66v-4M146.0 66v-9M157.8 66v-4M169.6 66v-4M181.4 66v-4M193.2 66v-4M205.0 66v-4M216.8 66v-4M228.6 66v-4M240.4 66v-4M252.2 66v-4M264.0 66v-9M275.8 66v-4M287.6 66v-4M299.4 66v-4M311.2 66v-4M323.0 66v-4M334.8 66v-4M346.6 66v-4M358.4 66v-4M370.2 66v-4M382.0 66v-9M393.8 66v-4M405.6 66v-4M417.4 66v-4M429.2 66v-4M441.0 66v-4M452.8 66v-4M464.6 66v-4M476.4 66v-4M488.2 66v-4M500.0 66v-9M511.8 66v-4M523.6 66v-4M535.4 66v-4M547.2 66v-4M559.0 66v-4M570.8 66v-4M582.6 66v-4M594.4 66v-4M606.2 66v-4M618.0 66v-9M629.8 66v-4M641.6 66v-4M653.4 66v-4M665.2 66v-4M677.0 66v-4M688.8 66v-4M700.6 66v-4M712.4 66v-4M724.2 66v-4M736.0 66v-9M747.8 66v-4M759.6 66v-4M771.4 66v-4M783.2 66v-4M795.0 66v-4M806.8 66v-4M818.6 66v-4M830.4 66v-4M842.2 66v-4M854.0 66v-9M865.8 66v-4M877.6 66v-4M889.4 66v-4M901.2 66v-4M913.0 66v-4M924.8 66v-4M936.6 66v-4M948.4 66v-4M960.2 66v-4M972.0 66v-9" stroke="#3B4252" stroke-width="1"/>
+<path d="M28 66H972" stroke="#3B4252" stroke-width="1"/>
+<path class="prog" pathLength="1" d="M28 66H382.0" stroke="#06B6D4" stroke-width="2"/>
+<path class="mark" d="M382.0 66l-5 -9h10z" fill="#84CC16"/>
+</svg>

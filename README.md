@@ -1,123 +1,117 @@
-<div align="center">
+<!--
+  Perfil de Davi Cardozo — "do projeto mecânico ao software".
+  Todos os gráficos são SVG autorais gerados por scripts/build.py (sem serviços externos).
+  O painel de atividade é atualizado por .github/workflows/activity.yml.
+-->
 
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/banners/hero-banner.svg" width="100%" alt="Davi Cardozo — Engenharia para Engenharia de Software" />
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/banners/hero-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banners/hero-static.svg">
+  <img src="assets/banners/hero.svg" width="100%" alt="Davi Cardozo — precisão de engenharia, aplicada a software. Um flange de desenho técnico cujos seis furos se soltam e se tornam os nós de um diagrama de sistema: ui, api, auth, types, db e deploy. Aberto a oportunidades de estágio ou júnior.">
+</picture>
 
-</div>
+<br><br>
 
-<div align="center">
+<img src="assets/sections/01-identity.svg" width="100%" alt="01 — Identity">
 
-<sub>RIO GRANDE DO SUL, BRASIL · PROJETISTA MECÂNICO → DESENVOLVEDOR FULL STACK</sub>
+Sou **Davi dos Santos Cardozo**, desenvolvedor Full Stack. Passei mais de dez anos na indústria como projetista mecânico e hoje aplico a mesma leitura de tolerância, estrutura e consequência a sistemas, em vez de peças.
 
-</div>
+**Formação** · Análise e Desenvolvimento de Sistemas (graduado) · pós em Ciência de Dados e Big Data Analytics (em curso) · Bootcamp Full Stack +praTi (em curso)<br>
+**Busco** · uma oportunidade como Desenvolvedor Full Stack, Estágio ou Júnior<br>
+**Base** · Rio Grande do Sul, Brasil
 
-<br/>
+<br>
 
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+<img src="assets/sections/02-transition.svg" width="100%" alt="02 — The Transition">
 
-### <sub>CAPÍTULO 01 · IDENTIDADE</sub>
+Por mais de uma década desenhei peças mecânicas: tolerâncias milimétricas, montagens que precisam encaixar na primeira tentativa, documentação da qual outra pessoa depende para não errar. Engenharia nunca foi criatividade livre; era precisão dentro de restrições.
 
-Sou **Davi dos Santos Cardozo**, desenvolvedor Full Stack em transição de carreira, com mais de 10 anos de bagagem técnica na indústria como projetista mecânico. Hoje essa bagagem está a serviço de software: a mesma leitura cuidadosa de tolerância, estrutura e consequência — aplicada a sistemas em vez de peças.
+Migrar para software não foi um recomeço, foi uma troca de material. As perguntas continuam as mesmas (*o que pode falhar aqui? o que esta peça precisa garantir para quem monta em cima dela?*), só que agora a peça é um endpoint, uma migration, uma trava de concorrência.
 
-Graduado em **Análise e Desenvolvimento de Sistemas**, pós-graduando em **Ciência de Dados e Big Data Analytics**, e atualmente cursando o **Bootcamp Full Stack +praTi**. Em busca de uma oportunidade como **Desenvolvedor Full Stack Estágio/Júnior**.
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/graphics/conversion-mobile.svg">
+  <img src="assets/graphics/conversion.svg" width="100%" alt="Tabela de conversão, do projeto mecânico para o software. Tolerância dimensional vira tipos e validação (TypeScript, Zod). Encaixe na primeira montagem vira contratos de API (REST versionado, Swagger/OpenAPI). Desenho técnico vira decisões documentadas (PRD, registro de problemas, README). A pergunta 'o que pode falhar aqui?' vira concorrência e segurança (SELECT FOR UPDATE, auditoria de RBAC, IDOR e XSS).">
+</picture>
 
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+<br><br>
 
-### <sub>CAPÍTULO 02 · ORIGEM</sub>
+<img src="assets/sections/03-mindset.svg" width="100%" alt="03 — Engineering Mindset">
 
-Passei mais de uma década desenhando peças mecânicas: tolerâncias milimétricas, montagens que precisam encaixar na primeira tentativa, documentação técnica que outra pessoa vai depender para não errar. Engenharia, nesse sentido, nunca foi sobre criatividade livre — era sobre precisão dentro de restrições.
+- **Planejamento antes de código.** Escopo e prioridades são discutidos e cortados antes da primeira linha, inclusive abrindo mão de complexidade que não resolve um problema real do projeto.
+- **IA como par de desenvolvimento, não como atalho.** No *Verzel Pass* e no *Elite Events Platform*, cada trecho gerado é revisado, testado manualmente e só então commitado.
+- **Decisões técnicas documentadas.** O que foi escolhido, o que foi descartado e por quê fica registrado junto do código, não só na minha cabeça.
+- **Segurança como etapa, não como reflexo.** O *Verzel Pass* passou por uma auditoria estática própria (isolamento de dados, RBAC, IDOR, gestão de segredos e XSS), com relatório versionado no repositório.
 
-A migração para desenvolvimento de software não foi um recomeço, foi uma troca de material: trocar aço e desenho técnico por tipos, contratos de API e banco de dados. As perguntas continuam as mesmas — *o que pode falhar aqui? o que essa peça precisa garantir para quem monta em cima dela?* — só que agora a peça é um endpoint, uma migration, uma trava de concorrência.
+<br>
 
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+<img src="assets/sections/04-technology.svg" width="100%" alt="04 — Technology">
 
-### <sub>CAPÍTULO 03 · ENGINEERING MINDSET</sub>
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/graphics/bom-mobile.svg">
+  <img src="assets/graphics/bom.svg" width="100%" alt="Lista de materiais. Linguagens: TypeScript, Java, JavaScript, SQL. Frontend: React, Next.js (App Router), Tailwind CSS, Vite. Backend: Node.js, Fastify, Spring Boot, Spring Security com JWT. Dados: PostgreSQL, Prisma, Flyway, Spring Data JPA. Infra: Docker, Git, Vercel, Render. Em estudo: Python, RAG, IA aplicada, Ciência de Dados.">
+</picture>
 
-Como eu construo:
+<sub>Uma lista de materiais só lista o que está na montagem: cada item acima aparece no código dos projetos abaixo. A última linha é estudo, não experiência.</sub>
 
-- **Planejamento antes de código.** Escopo e prioridades são discutidos e cortados deliberadamente antes da primeira linha — inclusive abrindo mão de complexidade desnecessária quando ela não resolve um problema real do projeto.
-- **IA como par de desenvolvimento, não como atalho.** Em projetos como o *Verzel Pass* e o *Elite Events Platform*, cada trecho gerado é revisado, testado manualmente e só então commitado — nenhuma função é considerada pronta sem validação própria.
-- **Decisões técnicas documentadas.** Trade-offs de arquitetura (o que foi escolhido, o que foi descartado e por quê) ficam registrados junto do código, não apenas na minha cabeça.
-- **Segurança como etapa, não como reflexo.** O *Verzel Pass* passou por auditoria estática própria cobrindo isolamento de dados, RBAC, IDOR, gestão de segredos e XSS — com relatório técnico versionado no repositório.
+<br><br>
 
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
-
-### <sub>CAPÍTULO 04 · TECHNOLOGY</sub>
-
-**Languages**
-<br/>
-![Java](https://img.shields.io/badge/-Java-3B4252?style=flat-square&logo=openjdk&logoColor=84CC16) ![TypeScript](https://img.shields.io/badge/-TypeScript-3B4252?style=flat-square&logo=typescript&logoColor=06B6D4) ![JavaScript](https://img.shields.io/badge/-JavaScript-3B4252?style=flat-square&logo=javascript&logoColor=84CC16) ![Python](https://img.shields.io/badge/-Python-3B4252?style=flat-square&logo=python&logoColor=06B6D4) ![SQL](https://img.shields.io/badge/-SQL-3B4252?style=flat-square&logo=postgresql&logoColor=84CC16)
-
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/-React-3B4252?style=flat-square&logo=react&logoColor=06B6D4) ![Next.js](https://img.shields.io/badge/-Next.js-3B4252?style=flat-square&logo=nextdotjs&logoColor=F4F4F5) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-3B4252?style=flat-square&logo=tailwindcss&logoColor=84CC16) ![Vite](https://img.shields.io/badge/-Vite-3B4252?style=flat-square&logo=vite&logoColor=06B6D4)
-
-**Backend**
-<br/>
-![Spring](https://img.shields.io/badge/-Spring_Boot-3B4252?style=flat-square&logo=springboot&logoColor=84CC16) ![Node.js](https://img.shields.io/badge/-Node.js-3B4252?style=flat-square&logo=nodedotjs&logoColor=06B6D4) ![Fastify](https://img.shields.io/badge/-Fastify-3B4252?style=flat-square&logo=fastify&logoColor=F4F4F5)
-
-**Database**
-<br/>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3B4252?style=flat-square&logo=postgresql&logoColor=06B6D4) ![Prisma](https://img.shields.io/badge/-Prisma-3B4252?style=flat-square&logo=prisma&logoColor=F4F4F5) ![Flyway](https://img.shields.io/badge/-Flyway-3B4252?style=flat-square&logo=flyway&logoColor=84CC16)
-
-**Tools & Infra**
-<br/>
-![Docker](https://img.shields.io/badge/-Docker-3B4252?style=flat-square&logo=docker&logoColor=06B6D4) ![Git](https://img.shields.io/badge/-Git-3B4252?style=flat-square&logo=git&logoColor=84CC16) ![Vercel](https://img.shields.io/badge/-Vercel-3B4252?style=flat-square&logo=vercel&logoColor=F4F4F5) ![Render](https://img.shields.io/badge/-Render-3B4252?style=flat-square&logo=render&logoColor=06B6D4)
-
-**Learning**
-<br/>
-![RAG](https://img.shields.io/badge/-RAG-3B4252?style=flat-square&logo=langchain&logoColor=84CC16) ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-3B4252?style=flat-square&logo=openai&logoColor=06B6D4)
-
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
-
-### <sub>CAPÍTULO 05 · SELECTED WORKS</sub>
+<img src="assets/sections/05-works.svg" width="100%" alt="05 — Selected Works">
 
 <a href="https://github.com/DaviSCardozo/verzel-pass-redesign">
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/verzel-pass.svg" width="100%" alt="Verzel Pass — Redesign" />
+  <img src="assets/project-covers/verzel-pass.svg" width="100%" alt="Projeto 01 — Verzel Pass. Venda, gestão e validação de ingressos em tempo real: mapa de assentos, QR Code e controle de concorrência. Next.js 16, Fastify 5, Prisma, PostgreSQL.">
 </a>
 
-<sub>Evolução do desafio técnico <a href="https://github.com/DaviSCardozo/elite-events-platform"><b>Elite Events Platform</b></a> — construída após a entrega, como exercício de design de interface e blindagem de segurança. · <a href="https://verzel-pass-redesign.vercel.app">Demo ↗</a></sub>
+**O problema** · Duas pessoas não podem comprar o mesmo assento, e a portaria precisa saber em segundos se um ingresso é válido.<br>
+**O que construí** · Projeto individual, do PRD ao deploy: compra dentro de transação com trava de linha (`SELECT … FOR UPDATE`), três papéis com RBAC (organizador, cliente e portaria), validação por QR Code com a câmera e uma auditoria de segurança própria com relatório em PDF.<br>
+**Ver** · [Repositório](https://github.com/DaviSCardozo/verzel-pass-redesign) · [Demo](https://verzel-pass-redesign.vercel.app) · [Relatório de segurança](https://github.com/DaviSCardozo/verzel-pass-redesign/blob/main/docs/security-audit/relatorio-auditoria-seguranca.pdf) · [PRD](https://github.com/DaviSCardozo/verzel-pass-redesign/blob/main/docs/PRD.md)
 
-<br/><br/>
+<br>
 
 <a href="https://github.com/DaviSCardozo/finance-control">
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/finance-control.svg" width="100%" alt="FinanceControl" />
+  <img src="assets/project-covers/finance-control.svg" width="100%" alt="Projeto 02 — FinanceControl. Controle financeiro pessoal em formato de planilha, com o saldo projetado até o fim do mês. Java 17, Spring Boot 3, React 18, PostgreSQL.">
 </a>
 
-<sub><a href="https://finance-control-eight-pi.vercel.app">Demo ↗</a> · <a href="https://finance-control-backend-jhdf.onrender.com/swagger-ui.html">API Docs ↗</a></sub>
+**O problema** · O saldo de hoje não diz se o mês fecha no positivo.<br>
+**O que construí** · Projeto individual: API em Spring Boot com Spring Security + JWT e migrations Flyway; interface em React com tabela estilo planilha (TanStack Table), gráficos (Recharts) e exportação para CSV. O saldo projetado soma o que já foi confirmado ao que ainda está pendente no mês.<br>
+**Ver** · [Repositório](https://github.com/DaviSCardozo/finance-control) · [Demo](https://finance-control-eight-pi.vercel.app) · [API (Swagger)](https://finance-control-backend-jhdf.onrender.com/swagger-ui.html) <sub>a API hiberna quando ociosa e pode levar alguns segundos para responder</sub>
 
-<br/><br/>
+<br>
 
-<a href="https://github.com/DaviSCardozo/portfolio-ia">
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/ai-portfolio.svg" width="100%" alt="AI Portfolio Hub" />
+<a href="https://github.com/DaviSCardozo/elite-events-platform">
+  <img src="assets/project-covers/elite-events.svg" width="100%" alt="Projeto 03 — Elite Events Platform. O desafio técnico original: eventos e ingressos com autenticação, RBAC, QR Code e API externa (TMDb). Next.js, Fastify, Prisma, PostgreSQL.">
 </a>
 
-<br/><br/>
+**O contexto** · A revisão A: a entrega original de um desafio técnico, que depois evoluiu para o Verzel Pass.<br>
+**Por que está aqui** · Comparar as duas revisões mostra o que mudou entre "entregue no prazo" e "revisado com calma": design system, blindagem de segurança e documentação.<br>
+**Ver** · [Repositório](https://github.com/DaviSCardozo/elite-events-platform)
 
-<a href="https://github.com/DaviSCardozo/daily-dev-studies">
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/project-covers/daily-dev-studies.svg" width="100%" alt="Daily Dev Studies" />
-</a>
+<sub>No laboratório: <a href="https://github.com/DaviSCardozo/daily-dev-studies">daily-dev-studies</a>, meu diário de estudos, e <a href="https://github.com/DaviSCardozo/portfolio-ia">portfolio-ia</a>, o índice dos estudos de IA aplicada.</sub>
 
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
+<br><br>
 
-#### CAPÍTULO 06 · ATIVIDADE
+<img src="assets/sections/06-focus.svg" width="100%" alt="06 — Current Focus">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaviSCardozo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSCardozo&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/graphics/terminal-mobile.svg">
+  <img src="assets/graphics/terminal.svg" width="100%" alt="Terminal: davi status --agora. Cursando: Bootcamp Full Stack +praTi, módulo de Java. Pós: Ciência de Dados e Big Data Analytics. Estudando: RAG e IA aplicada à engenharia de software. Buscando: Estágio ou Júnior como Desenvolvedor Full Stack.">
+</picture>
 
-### <sub>CAPÍTULO 07 · CONNECTION</sub>
+<br><br>
 
-<div align="center">
+<img src="assets/sections/07-activity.svg" width="100%" alt="07 — Activity">
 
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/signature.svg" width="110" alt="DC" />
+<img src="assets/graphics/activity.svg" width="100%" alt="Registro de atividade no GitHub nos últimos 12 meses: contribuições por semana e distribuição de linguagens nos repositórios públicos. Painel gerado automaticamente a partir de dados reais.">
 
-<p>
-<a href="mailto:dev.davicardozo@gmail.com">dev.davicardozo@gmail.com</a> ·
-<a href="https://linkedin.com/in/davi-cardozo-2b1046288">LinkedIn</a> ·
-<a href="https://daviscardozo.github.io/landing-page-davi/">Landing Page</a>
+<br><br>
+
+<img src="assets/sections/08-connection.svg" width="100%" alt="08 — Connection">
+
+<img src="assets/banners/footer.svg" width="100%" alt="Toda peça boa começa com uma boa conversa. Persistência, visão, determinação. Próxima revisão: em andamento.">
+
+<p align="center">
+  <a href="mailto:dev.davicardozo@gmail.com"><img src="assets/icons/btn-email.svg" height="44" alt="E-mail: dev.davicardozo@gmail.com"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/davi-cardozo/"><img src="assets/icons/btn-linkedin.svg" height="44" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://daviscardozo.github.io/landing-page-davi/"><img src="assets/icons/btn-portfolio.svg" height="44" alt="Portfólio"></a>
 </p>
-
-<sub>Persistência • Visão • Determinação</sub>
-
-</div>
