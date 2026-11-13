@@ -9,7 +9,7 @@
 <rect x="0.5" y="0.5" width="999" height="319" rx="16" fill="url(#grid)"/>
 <path d="M596 28V292" stroke="#1F2733"/>
 <g>
-<text x="40" y="58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#06B6D4" letter-spacing="2.5">PROJETO 02</text>
+<text x="40" y="58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#06B6D4" letter-spacing="2.5">PROJETO 03</text>
 <text x="141.22" y="58" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#8B95A5" letter-spacing="2.5">· MVP</text>
 <text x="38" y="122" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="46" font-weight="800" fill="#F4F4F5" letter-spacing="-0.6">FinanceControl</text>
 <text x="40" y="164" font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="17.5" fill="#8B95A5">Controle financeiro pessoal em formato de planilha,</text>

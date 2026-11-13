@@ -92,21 +92,87 @@ def conversion_mobile():
     return svg(W, H, "\n".join(b), FLOW, CONV_LABEL)
 
 
+# ------------------------------------------------------- folha de processo
+STEPS = [
+    ("Jornaleiro", "3+ ANOS", "Atender gente todo dia, cedo, sem falhar: constância."),
+    ("Auxiliar de produção", "", "O chão de fábrica: ritmo, processo e trabalho em equipe."),
+    ("Operador de máquina", "", "Responder pelo resultado: padrão, qualidade e segurança."),
+    ("Montador mecânico", "", "Sentir na mão o erro de projeto: quem monta paga a conta."),
+    ("Desenhista detalhista", "", "Precisão e norma: o desenho é um contrato com quem fabrica."),
+    ("Projetista mecânico", "JÚNIOR → PLENO → SÊNIOR", "Decidir a solução inteira e responder por ela."),
+    ("Desenvolvedor Full Stack", "EM TRANSIÇÃO · AGORA", "A mesma mentalidade, em um novo material."),
+]
+PROC_CSS = "@keyframes blink{0%,100%{opacity:1}50%{opacity:.25}}.blink{animation:blink 2.4s ease-in-out infinite}"
+PROC_LABEL = "Folha de processo — trajetória profissional: " + "; ".join(
+    f"operação {(i+1)*10}: {r}{' (' + sub.lower() + ')' if sub else ''} — {l}" for i, (r, sub, l) in enumerate(STEPS))
+
+
+def process():
+    rh = 52
+    W, H = 1000, 100 + rh * len(STEPS)
+    b = [f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="16" fill="url(#grid)"/>',
+         mono(32, 40, "FOLHA DE PROCESSO · TRAJETÓRIA", size=11, fill=CYAN, ls=2.5),
+         mono(968, 40, "CADA OPERAÇÃO PREPARA A SEGUINTE", size=11, fill=MUTED, anchor="end", ls=2.5)]
+    for x, h in ((32, "OP."), (150, "ETAPA"), (480, "O QUE FICOU")):
+        b.append(mono(x, 74, h, size=9.5, fill=MUTED, ls=2))
+    b.append(f'<path d="M32 86H968" stroke="{SLATE}"/>')
+    b.append(f'<path d="M118 {86 + rh/2}V{86 + rh*(len(STEPS)-0.5)}" stroke="{SLATE}" stroke-width="1.4"/>')
+    for i, (role, sub, lesson) in enumerate(STEPS):
+        y = 86 + i * rh
+        last = i == len(STEPS) - 1
+        col = LIME if last else CYAN
+        if last:
+            b.append(f'<rect x="20" y="{y+5}" width="960" height="{rh-8}" rx="8" fill="{LIME}" fill-opacity="0.05" '
+                     f'stroke="{LIME}" stroke-opacity="0.5" stroke-dasharray="4 4"/>')
+        b.append(mono(32, y + 31, f"OP. {(i+1)*10}", size=12.5, fill=col, ls=0.5))
+        b.append(f'<circle cx="118" cy="{y + rh/2}" r="5.5" fill="{col if last else BG}" stroke="{col}" stroke-width="1.8"'
+                 + (' class="blink"' if last else '') + '/>')
+        b.append(text(150, y + (25 if sub else 32), role, size=18, weight=700, fill=LIME if last else WHITE))
+        if sub:
+            b.append(mono(150, y + 42, sub, size=9.5, fill=MUTED, ls=1.6))
+        b.append(text(480, y + 32, lesson, size=15.5, fill=WHITE if last else MUTED))
+        if i < len(STEPS) - 2:
+            b.append(f'<path d="M150 {y+rh}H968" stroke="{LINE}"/>')
+    return svg(W, H, "\n".join(b), PROC_CSS, PROC_LABEL)
+
+
+def process_mobile():
+    rh = 100
+    W, H = 600, 78 + rh * len(STEPS)
+    b = [f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="16" fill="url(#grid)"/>',
+         mono(30, 46, "FOLHA DE PROCESSO · TRAJETÓRIA", size=14, fill=CYAN, ls=2.5),
+         f'<path d="M30 64H570" stroke="{SLATE}"/>']
+    for i, (role, sub, lesson) in enumerate(STEPS):
+        y = 64 + i * rh
+        last = i == len(STEPS) - 1
+        col = LIME if last else CYAN
+        if last:
+            b.append(f'<rect x="16" y="{y+6}" width="568" height="{rh-10}" rx="10" fill="{LIME}" fill-opacity="0.05" '
+                     f'stroke="{LIME}" stroke-opacity="0.5" stroke-dasharray="4 4"/>')
+        b.append(mono(30, y + 30, f"OP. {(i+1)*10}" + (f" · {sub}" if sub else ""), size=13, fill=col, ls=1.2))
+        b.append(text(30, y + 58, role, size=24, weight=700, fill=LIME if last else WHITE))
+        b.append(text(30, y + 83, lesson, size=16.5 if len(lesson) < 56 else 15.5, fill=WHITE if last else MUTED))
+        if i < len(STEPS) - 2:
+            b.append(f'<path d="M30 {y+rh}H570" stroke="{LINE}"/>')
+    return svg(W, H, "\n".join(b), PROC_CSS, PROC_LABEL)
+
+
 # ------------------------------------------------------- lista de materiais
 BOM = [
-    ("Linguagens", ["TypeScript", "Java", "JavaScript", "SQL"], "verzel-pass · finance-control"),
-    ("Frontend", ["React", "Next.js (App Router)", "Tailwind CSS", "Vite"], "verzel-pass · finance-control"),
-    ("Backend", ["Node.js", "Fastify", "Spring Boot", "Spring Security (JWT)"], "verzel-pass · finance-control"),
-    ("Dados", ["PostgreSQL", "Prisma", "Flyway", "Spring Data JPA"], "verzel-pass · finance-control"),
-    ("Infra", ["Docker", "Git", "Vercel", "Render"], "deploys ativos"),
-    ("Em estudo", ["Python", "RAG", "IA aplicada", "Ciência de Dados"], "bootcamp · pós-graduação"),
+    ("Linguagens", ["TypeScript", "Java", "Python", "JavaScript", "SQL"], "smartmarket · verzel-pass"),
+    ("Frontend", ["React", "Next.js (App Router)", "Tailwind CSS", "Vite"], "smartmarket · verzel-pass"),
+    ("Backend", ["Spring Boot", "Spring Security (JWT)", "Node.js", "Fastify"], "smartmarket · finance-control"),
+    ("Dados", ["PostgreSQL", "Spring Data JPA", "Prisma", "Flyway"], "smartmarket · verzel-pass"),
+    ("Qualidade", ["Jest", "Testing Library", "JUnit", "JaCoCo"], "smartmarket (CI com 70%)"),
+    ("Infra", ["Docker", "Git", "GitHub Actions", "Vercel", "Render"], "deploys ativos"),
+    ("Em estudo", ["RAG", "IA aplicada", "Ciência de Dados"], "bootcamp · pós-graduação"),
 ]
 BOM_LABEL = "Lista de materiais (stack): " + "; ".join(
     f"{c}: {', '.join(v)}" for c, v, _ in BOM) + ". A última linha são tecnologias em estudo."
 
 
 def bom():
-    W, H = 1000, 412
+    W, H = 1000, 100 + 52 * len(BOM)
     b = [f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="16" fill="url(#grid)"/>',
          mono(32, 40, "LISTA DE MATERIAIS", size=11, fill=CYAN, ls=2.5),
          mono(968, 40, "SOMENTE O QUE ESTÁ NO CÓDIGO", size=11, fill=MUTED, anchor="end", ls=2.5)]
@@ -134,7 +200,7 @@ def bom():
 
 
 def bom_mobile():
-    W, H = 600, 690
+    W, H = 600, 78 + 102 * len(BOM)
     b = [f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="16" fill="url(#grid)"/>',
          mono(30, 46, "LISTA DE MATERIAIS", size=14, fill=CYAN, ls=2.5),
          f'<path d="M30 64H570" stroke="{SLATE}"/>']
@@ -158,6 +224,7 @@ def bom_mobile():
 
 # ----------------------------------------------------------------- terminal
 FOCUS = [
+    ("construindo", "SmartMarket · comparador de preços, em equipe"),
     ("cursando", "Bootcamp Full Stack +praTi · módulo de Java"),
     ("pós", "Ciência de Dados e Big Data Analytics"),
     ("estudando", "RAG e IA aplicada à engenharia de software"),
@@ -181,7 +248,7 @@ def chrome(W, H, title, fs):
 
 
 def terminal():
-    W, H = 1000, 262
+    W, H = 1000, 142 + 30 * len(FOCUS)
     fs, cw = 16, 16 * 0.602
     b = [chrome(W, H, "davi@github: ~/agora", 12),
          mono(32, 82, "$", size=fs, fill=LIME, ls=0),
@@ -189,15 +256,15 @@ def terminal():
     for i, (k, v) in enumerate(FOCUS):
         y = 118 + i * 30
         b.append(f'<g class="r{i}">' + mono(56, y, k, size=fs, fill=CYAN, ls=0)
-                 + mono(196, y, v, size=fs, fill=WHITE, ls=0) + '</g>')
-    y = 118 + 4 * 30 + 6
-    b.append(f'<g class="r4">' + mono(32, y, "$", size=fs, fill=LIME, ls=0)
+                 + mono(206, y, v, size=fs, fill=WHITE, ls=0) + '</g>')
+    y = 118 + len(FOCUS) * 30 + 6
+    b.append(f'<g class="r5">' + mono(32, y, "$", size=fs, fill=LIME, ls=0)
              + f'<rect class="cur" x="56" y="{y-15}" width="10" height="19" fill="{WHITE}"/></g>')
     return svg(W, H, "\n".join(b), term_css(len(CMD), cw), TERM_LABEL)
 
 
 def terminal_mobile():
-    W, H = 600, 440
+    W, H = 600, 168 + 68 * len(FOCUS)
     fs, cw = 20, 20 * 0.602
     b = [chrome(W, H, "davi@github: ~/agora", 14),
          mono(28, 88, "$", size=fs, fill=LIME, ls=0),
@@ -206,8 +273,8 @@ def terminal_mobile():
         y = 132 + i * 68
         b.append(f'<g class="r{i}">' + mono(28, y, k, size=15, fill=CYAN, ls=1.5)
                  + mono(28, y + 27, v, size=18 if len(v) < 42 else 16.5, fill=WHITE, ls=0) + '</g>')
-    y = 132 + 4 * 68 + 8
-    b.append(f'<g class="r4">' + mono(28, y, "$", size=fs, fill=LIME, ls=0)
+    y = 132 + len(FOCUS) * 68 + 8
+    b.append(f'<g class="r5">' + mono(28, y, "$", size=fs, fill=LIME, ls=0)
              + f'<rect class="cur" x="54" y="{y-18}" width="12" height="23" fill="{WHITE}"/></g>')
     return svg(W, H, "\n".join(b), term_css(len(CMD), cw), TERM_LABEL)
 
@@ -256,6 +323,8 @@ def build():
         write(f"sections/{i:02d}-{slug}.svg", header(i, t))
     write("graphics/conversion.svg", conversion())
     write("graphics/conversion-mobile.svg", conversion_mobile())
+    write("graphics/process.svg", process())
+    write("graphics/process-mobile.svg", process_mobile())
     write("graphics/bom.svg", bom())
     write("graphics/bom-mobile.svg", bom_mobile())
     write("graphics/terminal.svg", terminal())
