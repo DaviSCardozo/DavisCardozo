@@ -99,16 +99,15 @@ Como eu construo:
 
 <img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
 
-### <sub>CAPÍTULO 06 · ACTIVITY</sub>
+#### CAPÍTULO 06 · ATIVIDADE
 
 <div align="center">
+  <!-- Gráfico de Contribuições gerais -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DaviSCardozo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DaviSCardozo&show_icons=true&hide_title=true&hide_border=true&bg_color=090D16&title_color=F4F4F5&text_color=9AA5B4&icon_color=84CC16&ring_color=06B6D4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSCardozo&layout=compact&hide_border=true&bg_color=090D16&title_color=F4F4F5&text_color=9AA5B4&langs_count=8" />
-
+  <!-- Linguagens mais utilizadas -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSCardozo&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
-
-<img src="https://raw.githubusercontent.com/DaviSCardozo/DaviSCardozo/main/assets/animations/divider.svg" width="100%" alt="" />
 
 ### <sub>CAPÍTULO 07 · CONNECTION</sub>
 
