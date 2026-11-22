@@ -23,81 +23,81 @@
 <text x="300" y="66.0" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8" fill="#8B95A5" letter-spacing="1.2">269 / SEMANA</text>
 <rect x="302.4" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="315.0" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="327.6022641509434" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">DEZ</text>
+<path d="M325.1 210v8" stroke="#3B4252"/>
 <rect x="327.6" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="340.20603773584907" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">DEZ</text>
-<path d="M337.7 210v8" stroke="#3B4252"/>
 <rect x="340.2" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="352.8" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="365.4" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="378.01735849056604" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">JAN</text>
+<path d="M375.5 210v8" stroke="#3B4252"/>
 <rect x="378.0" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="390.6211320754717" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">JAN</text>
-<path d="M388.1 210v8" stroke="#3B4252"/>
 <rect x="390.6" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="403.2" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="415.8" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="428.4324528301887" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">FEV</text>
+<path d="M425.9 210v8" stroke="#3B4252"/>
 <rect x="428.4" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="441.03622641509435" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">FEV</text>
-<path d="M438.5 210v8" stroke="#3B4252"/>
 <rect x="441.0" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="453.6" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="466.2" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="478.8475471698113" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">MAR</text>
+<path d="M476.3 210v8" stroke="#3B4252"/>
 <rect x="478.8" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="491.451320754717" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">MAR</text>
-<path d="M489.0 210v8" stroke="#3B4252"/>
 <rect x="491.5" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="504.1" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="516.7" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="529.3" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="541.8664150943397" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">ABR</text>
+<path d="M539.4 210v8" stroke="#3B4252"/>
 <rect x="541.9" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="554.4701886792453" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">ABR</text>
-<path d="M552.0 210v8" stroke="#3B4252"/>
 <rect x="554.5" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="567.1" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="579.7" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="592.2815094339622" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">MAI</text>
+<path d="M589.8 210v8" stroke="#3B4252"/>
 <rect x="592.3" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="604.8852830188679" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">MAI</text>
-<path d="M602.4 210v8" stroke="#3B4252"/>
 <rect x="604.9" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <rect x="617.5" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<rect x="630.1" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<rect x="642.7" y="205.8" width="7.8" height="4.2" rx="1.5" fill="#06B6D4"/>
-<rect x="655.3" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
-<text x="667.9041509433963" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">JUN</text>
-<path d="M665.4 210v8" stroke="#3B4252"/>
-<rect x="667.9" y="205.3" width="7.8" height="4.7" rx="1.5" fill="#06B6D4"/>
-<rect x="680.5" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
-<rect x="693.1" y="202.2" width="7.8" height="7.8" rx="1.5" fill="#06B6D4"/>
-<rect x="705.7" y="205.8" width="7.8" height="4.2" rx="1.5" fill="#06B6D4"/>
-<text x="718.3192452830189" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">JUL</text>
-<path d="M715.8 210v8" stroke="#3B4252"/>
-<rect x="718.3" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<rect x="730.9" y="204.8" width="7.8" height="5.2" rx="1.5" fill="#06B6D4"/>
-<rect x="743.5" y="205.8" width="7.8" height="4.2" rx="1.5" fill="#06B6D4"/>
-<rect x="756.1" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="768.7343396226415" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">AGO</text>
-<path d="M766.2 210v8" stroke="#3B4252"/>
-<rect x="768.7" y="194.9" width="7.8" height="15.1" rx="1.5" fill="#06B6D4"/>
-<rect x="781.3" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<rect x="793.9" y="197.0" width="7.8" height="13.0" rx="1.5" fill="#06B6D4"/>
-<rect x="806.5" y="186.1" width="7.8" height="23.9" rx="1.5" fill="#06B6D4"/>
-<rect x="819.1" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="831.7532075471698" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">SET</text>
-<path d="M829.3 210v8" stroke="#3B4252"/>
-<rect x="831.8" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
-<rect x="844.4" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<rect x="857.0" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
+<rect x="630.1" y="205.8" width="7.8" height="4.2" rx="1.5" fill="#06B6D4"/>
+<rect x="642.7" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
+<text x="655.3003773584906" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">JUN</text>
+<path d="M652.8 210v8" stroke="#3B4252"/>
+<rect x="655.3" y="205.3" width="7.8" height="4.7" rx="1.5" fill="#06B6D4"/>
+<rect x="667.9" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
+<rect x="680.5" y="202.2" width="7.8" height="7.8" rx="1.5" fill="#06B6D4"/>
+<rect x="693.1" y="205.8" width="7.8" height="4.2" rx="1.5" fill="#06B6D4"/>
+<text x="705.7154716981132" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">JUL</text>
+<path d="M703.2 210v8" stroke="#3B4252"/>
+<rect x="705.7" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<rect x="718.3" y="204.8" width="7.8" height="5.2" rx="1.5" fill="#06B6D4"/>
+<rect x="730.9" y="205.8" width="7.8" height="4.2" rx="1.5" fill="#06B6D4"/>
+<rect x="743.5" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="756.1305660377359" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">AGO</text>
+<path d="M753.6 210v8" stroke="#3B4252"/>
+<rect x="756.1" y="194.9" width="7.8" height="15.1" rx="1.5" fill="#06B6D4"/>
+<rect x="768.7" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<rect x="781.3" y="197.0" width="7.8" height="13.0" rx="1.5" fill="#06B6D4"/>
+<rect x="793.9" y="186.1" width="7.8" height="23.9" rx="1.5" fill="#06B6D4"/>
+<rect x="806.5" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="819.1494339622642" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">SET</text>
+<path d="M816.6 210v8" stroke="#3B4252"/>
+<rect x="819.1" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
+<rect x="831.8" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<rect x="844.4" y="207.0" width="7.8" height="3.0" rx="1.5" fill="#06B6D4"/>
+<rect x="857.0" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<text x="869.5645283018868" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">OUT</text>
+<path d="M867.1 210v8" stroke="#3B4252"/>
 <rect x="869.6" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<text x="882.1683018867925" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">OUT</text>
-<path d="M879.7 210v8" stroke="#3B4252"/>
-<rect x="882.2" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<rect x="894.8" y="193.3" width="7.8" height="16.7" rx="1.5" fill="#06B6D4"/>
-<rect x="907.4" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
-<rect x="920.0" y="190.7" width="7.8" height="19.3" rx="1.5" fill="#06B6D4"/>
-<text x="932.5833962264151" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">NOV</text>
-<path d="M930.1 210v8" stroke="#3B4252"/>
-<rect x="932.6" y="99.7" width="7.8" height="110.3" rx="1.5" fill="#06B6D4"/>
-<rect x="945.2" y="70.0" width="7.8" height="140.0" rx="1.5" fill="#84CC16"/>
-<rect x="957.8" y="201.2" width="7.8" height="8.8" rx="1.5" fill="#06B6D4"/>
+<rect x="882.2" y="193.3" width="7.8" height="16.7" rx="1.5" fill="#06B6D4"/>
+<rect x="894.8" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
+<rect x="907.4" y="190.7" width="7.8" height="19.3" rx="1.5" fill="#06B6D4"/>
+<text x="919.9796226415094" y="227" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" fill="#8B95A5" letter-spacing="1.2">NOV</text>
+<path d="M917.5 210v8" stroke="#3B4252"/>
+<rect x="920.0" y="99.7" width="7.8" height="110.3" rx="1.5" fill="#06B6D4"/>
+<rect x="932.6" y="70.0" width="7.8" height="140.0" rx="1.5" fill="#84CC16"/>
+<rect x="945.2" y="201.2" width="7.8" height="8.8" rx="1.5" fill="#06B6D4"/>
+<rect x="957.8" y="208.5" width="7.8" height="1.5" fill="#3B4252"/>
 <path d="M300 210H968" stroke="#3B4252"/>
 <text x="32" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" fill="#8B95A5" letter-spacing="1.8">LINGUAGENS</text>
 <clipPath id="lc"><rect x="140" y="254" width="828" height="9" rx="4.5"/></clipPath><g clip-path="url(#lc)">
@@ -117,5 +117,5 @@
 <text x="510.27" y="290" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#F4F4F5" letter-spacing="0.3">HTML 8%</text>
 <circle cx="586.7239999999999" cy="286" r="4" fill="#3B4252"/>
 <text x="596.7239999999999" y="290" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#F4F4F5" letter-spacing="0.3">Outras 7%</text>
-<text x="968" y="316" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8" fill="#3B4252" text-anchor="end" letter-spacing="1.5">GERADO POR GITHUB ACTIONS · 2026-11-21</text>
+<text x="968" y="316" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8" fill="#3B4252" text-anchor="end" letter-spacing="1.5">GERADO POR GITHUB ACTIONS · 2026-11-22</text>
 </svg>
